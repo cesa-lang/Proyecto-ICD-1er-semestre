@@ -1,0 +1,91 @@
+{
+    "Place":"Luly Hamburguesas",
+    "Location":[
+        {"Address":"#151, Calzada de Santa Catalina entre 10 de Octubre y Parraga, La Vibora",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"3JVP+939"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"21h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"52823877",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":15,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Hamburguesa sencilla criolla",
+            "Price":480},
+            {"Plate":"Hamburguesa especial",
+            "Price":1000},
+            {"Plate":"Hamburguesa con jamon y queso",
+            "Price":680},
+            {"Plate":"Sandwich de jamon y queso",
+            "Price":610},
+            {"Plate":"Media noche especial",
+            "Price":470},
+            {"Plate":"Bocadito especial",
+            "Price":220}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":60},
+            {"Addition":"Queso",
+            "Price":140},
+            {"Addition":"Chorizo",
+            "Price":80}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Pepsi Cola",
+            "Price":270},
+            {"Type":"Refresco de limon",
+            "Price":270},
+            {"Type":"Refresco de naranja",
+            "Price":270},
+            {"Type":"Malta",
+            "Price":300},
+            {"Type":"Cerveza King",
+            "Price":220},
+            {"Type":"Kermato",
+            "Price":460},
+            {"Type":"Jugo de caja",
+            "Price":200},
+            {"Type":"Agua natural",
+            "Price":190},
+            {"Type":"Cerveza Cristal",
+            "Price":260}
+        ],
+        "Desserts":[
+            {"Plate":"Pote de helado Gusto 1L",
+            "Price":900}
+        ],
+        "Vegetarian options":null
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "Place":"El Triangulo",
+    "Location":[
+        {"Address":"Esquina de Calzada de 10 de Octubre y Calzada de Provenir, La Palma",
+        "Municipality":"Arroyo Naranjo",
+        "Coordinates":"3JFR+MJC"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"08h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":10,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Fajitas de pollo",
+            "Price":350},
+            {"Plate":"Croquetas",
+            "Price":150},
+            {"Plate":"Bolitas de queso",
+            "Price":150},
+            {"Plate":"Tostones",
+            "Price":150}
+        ],
+        "Main course":[
+            {"Plate":"Pollo frito",
+            "Price":1000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza Cristal",
+            "Price":250},
+            {"Type":"Cerveza Bucanero",
+            "Price":250},
+            {"Type":"Cerveza Escorial",
+            "Price":200},
+            {"Type":"Cerveza Hollandia",
+            "Price":200},
+            {"Type":"Agua",
+            "Price":120},
+            {"Type":"Refresco",
+            "Price":220},
+            {"Type":"Jugo de caja",
+            "Price":180},
+            {"Type":"Red Bull",
+            "Price":230},
+            {"Type":"Malta",
+            "Price":220}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Bolitas de queso",
+            "Classification":"Starters"},
+            {"Option":"Tostones",
+            "Classification":"Starters"}
+        ]
+    }
+}

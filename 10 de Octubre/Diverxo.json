@@ -1,0 +1,83 @@
+{
+    "Place":"Diverxo",
+    "Location":[
+        {"Address":"#904, Calzada de 10 de Octubre entre Luz Oeste y Lacret",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"3JXQ+C43"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["10 de Octubre"]}
+    ],
+    "Phone number":"58594576 / 56595266",
+    "Accounts or website":[
+        {"Facebook":"Diverxo Restaurant Bar"},
+        {"Instagram":"@bar_restaurante_diverxo"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":15,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Lechon asado",
+            "Price":1650},
+            {"Plate":"Espaghettis napolitanos",
+            "Price":850},
+            {"Plate":"Espaghettis de jamon",
+            "Price":1100},
+            {"Plate":"Espaghettis de chorizo",
+            "Price":1100},
+            {"Plate":"Espaghettis Alfredo de jamon",
+            "Price":1150},
+            {"Plate":"Pizza napolitana",
+            "Price":850},
+            {"Plate":"Diverxo",
+            "Price":1950}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":350},
+            {"Addition":"Atun",
+            "Price":500},
+            {"Addition":"Chorizo",
+            "Price":350},
+            {"Addition":"Aceitunas",
+            "Price":500},
+            {"Addition":"Queso",
+            "Price":350}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Termo de Cerveza",
+            "Price":2160}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Espaghettis napolitanos",
+            "Classification":"Main course"},
+            {"Option":"Pizza napolitana",
+            "Classification":"Main course"}
+        ]
+    }
+}

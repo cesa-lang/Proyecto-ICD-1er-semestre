@@ -1,0 +1,100 @@
+{
+    "Place":"Restaurante Vale&Vane",
+    "Location":[
+        {"Address":"#73, Calle Corrales entre Santa Maria y Apodaca",
+        "Municipality":"Guanabacoa",
+        "Coordinates":"4PC3+GQ8"}
+    ],
+    "Classification":"Restaurant",
+    "Specialization":"Comida criolla e italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"21h00",
+        "Days":["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.8}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"77947261",
+    "Accounts or website":[
+        {"Facebook":"Vale & Vane"},
+        {"Instagram":null},
+        {"Website":"www.valevane.com"},
+        {"Email":"valevane@nauta.cu"}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":20,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Chuleta de cerdo",
+            "Price":1100},
+            {"Plate":"Bistec de cerdo grille",
+            "Price":1200},
+            {"Plate":"Masa de cerdo frita",
+            "Price":1300},
+            {"Plate":"Bistec encebollado",
+            "Price":1450},
+            {"Plate":"Costilla de cerdo",
+            "Price":1650},
+            {"Plate":"Lomo ahumado",
+            "Price":1400},
+            {"Plate":"Uruguayo de cerdo",
+            "Price":1600},
+            {"Plate":"Bistec Princesa",
+            "Price":1720},
+            {"Plate":"Garbanzo frito",
+            "Price":1300},
+            {"Plate":"Filete de pescado grille",
+            "Price":1800},
+            {"Plate":"Camaron grille",
+            "Price":1800},
+            {"Plate":"Enchilado de camaron",
+            "Price":1850},
+            {"Plate":"Mar y Tierra",
+            "Price":2500},
+            {"Plate":"Vaca frita",
+            "Price":1600},
+            {"Plate":"Ropa vieja",
+            "Price":1600},
+            {"Plate":"Pollo frito",
+            "Price":1000},
+            {"Plate":"Suprema grille",
+            "Price":1400},
+            {"Plate":"Bistec Princesa",
+            "Price":1920},
+            {"Plate":"Suprema de pollo encebollada",
+            "Price":1650}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz moro",
+            "Price":null},
+            {"Type":"Vianda frita",
+            "Price":null},
+            {"Type":"Ensalada",
+            "Price":null}
+        ],
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Vianda frita",
+            "Classification":"Siders"},
+            {"Option":"Ensalada",
+            "Classification":"Siders"}
+        ]
+    }
+}

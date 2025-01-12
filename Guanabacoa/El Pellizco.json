@@ -1,0 +1,113 @@
+{
+    "Place":"El Pellizco",
+    "Location":[
+        {"Address":"Carretera 400",
+        "Municipality":"Guanabacoa",
+        "Coordinates":"3Q5F+6C6"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Estatal",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.6}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":40,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Racion de chicharron",
+            "Price":150},
+            {"Plate":"Racion de empella",
+            "Price":100},
+            {"Plate":"Caldoza de la casa",
+            "Price":250},
+            {"Plate":"Racion de tostones",
+            "Price":80},
+            {"Plate":"Racion de mariquitas",
+            "Price":80},
+            {"Plate":"Platano maduro frito",
+            "Price":80}
+        ],
+        "Main course":[
+            {"Plate":"Bistec de higado",
+            "Price":400},
+            {"Plate":"Higado a la italiana",
+            "Price":450},
+            {"Plate":"Bistec de cerdo",
+            "Price":600},
+            {"Plate":"Masa de cerdo",
+            "Price":650},
+            {"Plate":"Chuleta de cerdo",
+            "Price":650},
+            {"Plate":"Lomo ahumado",
+            "Price":650},
+            {"Plate":"Lonjas de cerdo asadas",
+            "Price":600},
+            {"Plate":"Pollo asado",
+            "Price":450},
+            {"Plate":"Costilla asada",
+            "Price":650},
+            {"Plate":"Ropa vieja de cerdo",
+            "Price":650},
+            {"Plate":"Fricase de costillas",
+            "Price":650},
+            {"Plate":"Pizza napolitana",
+            "Price":200}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza nacional",
+            "Price":220},
+            {"Type":"Cerveza importada",
+            "Price":220},
+            {"Type":"Jugo de caja",
+            "Price":150},
+            {"Type":"Jugo de botella",
+            "Price":120},
+            {"Type":"Malta",
+            "Price":150},
+            {"Type":"Agua natural",
+            "Price":100},
+            {"Type":"Energizante",
+            "Price":220}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Racion de chicharron",
+            "Classification":"Starters"},
+            {"Option":"Racion de tostones",
+            "Classification":"Starters"},
+            {"Option":"Racion de mariquitas",
+            "Classification":"Starters"},
+            {"Option":"Platano maduro frito",
+            "Classification":"Starters"},
+            {"Option":"Pizza napolitana",
+            "Classification":"Main course"}
+        ]
+    }
+}

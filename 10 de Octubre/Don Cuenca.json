@@ -1,0 +1,140 @@
+{
+    "Place":"Don Cuenca",
+    "Location":[
+        {"Address":"Calle General Lee entre Destrampe y Figueroa, Santos Suarez",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"4J2H+J9"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":5.0,
+        "Google Maps":4.2}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"55373569 / 76402249",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@doncuenca2010"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":25,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Frituras de malanga",
+            "Price":500},
+            {"Plate":"Tostones rellenos de jamon y queso",
+            "Price":550},
+            {"Plate":"Garbanzos fritos",
+            "Price":850},
+            {"Plate":"Eperlan",
+            "Price":1450},
+            {"Plate":"Coctel de camarones",
+            "Price":1600}
+        ],
+        "Main course":[
+            {"Plate":"Bistec de cerdo grille",
+            "Price":1550},
+            {"Plate":"Bistec uruguayo",
+            "Price":2100},
+            {"Plate":"Lomo de cerdo ahumado",
+            "Price":1700},
+            {"Plate":"Lomo de cerdo hawaiano",
+            "Price":1900},
+            {"Plate":"Pechuga grille",
+            "Price":1650},
+            {"Plate":"Pechuga salteada con aji y cebolla",
+            "Price":1750},
+            {"Plate":"Pechuga hawaiana",
+            "Price":2100},
+            {"Plate":"Gordon Blue",
+            "Price":2400},
+            {"Plate":"Chilindron de cordero",
+            "Price":1800},
+            {"Plate":"Ropa vieja",
+            "Price":1900},
+            {"Plate":"Vaca frita",
+            "Price":1900},
+            {"Plate":"Solomillo de cerdo",
+            "Price":2950},
+            {"Plate":"Filete de pescado Joinville",
+            "Price":3000},
+            {"Plate":"Enchilado de mariscos",
+            "Price":3100},
+            {"Plate":"Caldereta de mariscos",
+            "Price":3600},
+            {"Plate":"Canelon de jamon",
+            "Price":1100},
+            {"Plate":"Canelon de chorizo",
+            "Price":1250},
+            {"Plate":"Canelon de atun",
+            "Price":1600},
+            {"Plate":"Lasagna de jamon",
+            "Price":1350},
+            {"Plate":"Lasagna de chorizo",
+            "Price":1550},
+            {"Plate":"Lasagna de atun",
+            "Price":1900},
+            {"Plate":"Espaghettis Don Cuenca",
+            "Price":1650},
+            {"Plate":"Espaghettis de mariscos",
+            "Price":2450},
+            {"Plate":"Espaghettis Frutti di Mare",
+            "Price":2900}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Jugo natural",
+            "Price":250},
+            {"Type":"Suero de helado",
+            "Price":450},
+            {"Type":"Refresco",
+            "Price":300},
+            {"Type":"Malta importada",
+            "Price":330},
+            {"Type":"Energizante",
+            "Price":300},
+            {"Type":"Cafe",
+            "Price":100},
+            {"Type":"Cerveza nacional",
+            "Price":400},
+            {"Type":"Cerveza importada",
+            "Price":350}
+        ],
+        "Desserts":[
+            {"Plate":"Tarta de la casa",
+            "Price":450},
+            {"Plate":"Flan de la casa",
+            "Price":450},
+            {"Plate":"Crema de arroz con leche",
+            "Price":350},
+            {"Plate":"Helado",
+            "Price":450}
+        ],
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Garbanzos fritos",
+            "Classification":"Starters"}
+        ]
+    }
+}

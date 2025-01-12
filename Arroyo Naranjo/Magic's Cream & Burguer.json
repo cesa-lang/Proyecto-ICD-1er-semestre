@@ -1,0 +1,147 @@
+{
+    "Place":"Magic's Cream & Burguer",
+    "Location":[
+        {"Address":"Calzada de 10 de Octubre entre Santa Amalia y Arnao",
+        "Municipality":"Arroyo Naranjo",
+        "Coordinates":"3JHQ+M9X"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"null",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":30,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas Magic's",
+            "Price":400},
+            {"Plate":"Frituras de malanga",
+            "Price":400},
+            {"Plate":"Tacos de pollo",
+            "Price":700},
+            {"Plate":"Tacos de cerdo",
+            "Price":800},
+            {"Plate":"Fajas de pollo",
+            "Price":600},
+            {"Plate":"Bolitas de queso",
+            "Price":500},
+            {"Plate":"Papas fritas",
+            "Price":500}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa de cerdo",
+            "Price":430},
+            {"Plate":"Hamburguesa de pollo",
+            "Price":430},
+            {"Plate":"Hamburguesa Doble",
+            "Price":1000},
+            {"Plate":"Hamburguesas Super Magic's",
+            "Price":1500}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":100},
+            {"Addition":"Queso",
+            "Price":100},
+            {"Addition":"Vegetales",
+            "Price":100},
+            {"Addition":"Papas",
+            "Price":500}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cervezas importadas",
+            "Price":220},
+            {"Type":"Cervezas nacionales",
+            "Price":300},
+            {"Type":"Malta",
+            "Price":300},
+            {"Type":"Pepsi",
+            "Price":300},
+            {"Type":"Refresco de lata",
+            "Price":210},
+            {"Type":"Limonada Frappe",
+            "Price":250},
+            {"Type":"Michelada",
+            "Price":250},
+            {"Type":"Pina Colada Virgen",
+            "Price":500},
+            {"Type":"Pina Colada",
+            "Price":575},
+            {"Type":"Cuba Libre",
+            "Price":500},
+            {"Type":"Mojito",
+            "Price":500},
+            {"Type":"Botella Label 5",
+            "Price":3500},
+            {"Type":"JW Red Label",
+            "Price":600},
+            {"Type":"Ballantine's",
+            "Price":550},
+            {"Type":"Howells",
+            "Price":300},
+            {"Type":"Gran Marchell",
+            "Price":300},
+            {"Type":"Pacto Navio",
+            "Price":700},
+            {"Type":"Havana Club Anejo Reserva",
+            "Price":400},
+            {"Type":"Havana Club Anejo 3 anos",
+            "Price":350},
+            {"Type":"Ginebra",
+            "Price":300},
+            {"Type":"Vodka",
+            "Price":300},
+            {"Type":"Copa de vino tinto",
+            "Price":600},
+            {"Type":"Copa de vino blanco",
+            "Price":550}
+        ],
+        "Desserts":[
+            {"Plate":"Bola de helado",
+            "Price":70},
+            {"Plate":"Helados Jimaguas",
+            "Price":195},
+            {"Plate":"Ensalada de helado",
+            "Price":350},
+            {"Plate":"Batido de helado",
+            "Price":395},
+            {"Plate":"Tres Gracias",
+            "Price":245}
+        ],
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Bolitas de queso",
+            "Classification":"Starters"},
+            {"Option":"Papas fritas",
+            "Classification":"Starters"}
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "Place":"Dona Almira",
+    "Location":[
+        {"Address":"Calle Finlay entre Avenida de los Pinos y F de Castro",
+        "Municipality":"Arroyo Naranjo",
+        "Coordinates":"3J7F+MP4"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"23h00",
+        "Days":["Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.6}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"76472532 / 52928671",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":25,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones rellenos",
+            "Price":850},
+            {"Plate":"ANGU tamal en cazuela",
+            "Price":785},
+            {"Plate":"Vegetales rellenos",
+            "Price":895},
+            {"Plate":"Racion de chicharrones",
+            "Price":300},
+            {"Plate":"Aderezo Dona Almira",
+            "Price":385},
+            {"Plate":"Salsa agridulce",
+            "Price":395},
+            {"Plate":"Entredos de chorizo",
+            "Price":1225},
+            {"Plate":"Ceviche de pescado",
+            "Price":685}
+        ],
+        "Main course":[
+            {"Plate":"Costillas de cerdo",
+            "Price":1890},
+            {"Plate":"Bistec americano",
+            "Price":2430},
+            {"Plate":"Nasobuco",
+            "Price":1860},
+            {"Plate":"Bistec de higado",
+            "Price":1290},
+            {"Plate":"Higado a la italiana",
+            "Price":1380},
+            {"Plate":"Lomo rostizado",
+            "Price":2150},
+            {"Plate":"Mignon de pescado grille",
+            "Price":1370},
+            {"Plate":"Mignon de pescado a las finas hierbas",
+            "Price":1410},
+            {"Plate":"Mignon de pescado Dona Almira",
+            "Price":1650},
+            {"Plate":"Mignon de pescado gratinado",
+            "Price":1585},
+            {"Plate":"Mignon de pescado con queso y bacon",
+            "Price":1720},
+            {"Plate":"Pollo Dona Almira",
+            "Price":1340},
+            {"Plate":"Pollo barbacoa",
+            "Price":1195},
+            {"Plate":"Pollo en salsa agridulce",
+            "Price":1205},
+            {"Plate":"Pollo grille",
+            "Price":1185},
+            {"Plate":"Pollo en fricase",
+            "Price":1225},
+            {"Plate":"Pollo a la pasa",
+            "Price":1220},
+            {"Plate":"Pollo grille con camarones y queso",
+            "Price":1375},
+            {"Plate":"Cerdo enrrollado asado",
+            "Price":1545},
+            {"Plate":"Cerdo enrrollado en salsa agridulce",
+            "Price":1570},
+            {"Plate":"Cerdo enrrollado glaseado",
+            "Price":1550},
+            {"Plate":"Fricase de cerdo",
+            "Price":1520},
+            {"Plate":"Picadillo a la Habanera",
+            "Price":1290},
+            {"Plate":"Ropa Vieja",
+            "Price":1305},
+            {"Plate":"Vaca Frita",
+            "Price":1260}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz congris",
+            "Price":120},
+            {"Type":"Ensalada de estacion",
+            "Price":285}
+        ],
+        "Drinks":[
+            {"Type":"Cafe Cubano",
+            "Price":150},
+            {"Type":"Cafe Cortado",
+            "Price":180}
+        ],
+        "Desserts":[
+            {"Plate":"Mousse variados",
+            "Price":570}
+        ],
+        "Vegetarian options":[
+            {"Option":"ANGU tamal en cazuela",
+            "Classification":"Starters"},
+            {"Option":"Racion de chicharrones",
+            "Classification":"Starters"},
+            {"Option":"Ensalada de estacion",
+            "Classification":"Siders"}
+        ]
+    }
+}

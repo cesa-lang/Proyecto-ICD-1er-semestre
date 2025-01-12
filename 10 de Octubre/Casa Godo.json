@@ -1,0 +1,106 @@
+{
+    "Place":"Casa Godo",
+    "Location":[
+        {"Address":"#358, Avenida mayia Rodriguez entre San Mariano y Vista Alegre",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"3JVC+JWC"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.5,
+        "Google Maps":3.4}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"76034192 / 53311292",
+    "Accounts or website":[
+        {"Facebook":"Casa Godo Restaurante"},
+        {"Instagram":"@casa_godo._.oficial"},
+        {"Website":null},
+        {"Email":"alejandrofernandezsordo@gmail.com"}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":15,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas de pescado",
+            "Price":650},
+            {"Plate":"Coctel de camaron",
+            "Price":1000},
+            {"Plate":"Entremes de jamon, queso y aceitunas",
+            "Price":850},
+            {"Plate":"Tostones rellenos con cerdo",
+            "Price":650},
+            {"Plate":"Garbanzos fritos",
+            "Price":700}
+        ],
+        "Main course":[
+            {"Plate":"Churrasco de cerdo",
+            "Price":3200},
+            {"Plate":"Chilindron de cordero",
+            "Price":2000},
+            {"Plate":"Langosta grille o enchilada",
+            "Price":3000},
+            {"Plate":"Masas de cerdo",
+            "Price":2000},
+            {"Plate":"Bistec de cerdo",
+            "Price":2000},
+            {"Plate":"Lonjas de cerdo",
+            "Price":1800},
+            {"Plate":"Lomo ahumado",
+            "Price":1800},
+            {"Plate":"Filete de pescado",
+            "Price":2200},
+            {"Plate":"Filete de pescado con vegetales salteados",
+            "Price":2300},
+            {"Plate":"Filete de pescado con camarones",
+            "Price":2900},
+            {"Plate":"Camaron salteado o enchilado",
+            "Price":2600},
+            {"Plate":"Pechuga de pollo",
+            "Price":1800},
+            {"Plate":"Pollo deshuesado",
+            "Price":950},
+            {"Plate":"Pulpo salteado al ajillo",
+            "Price":3100},
+            {"Plate":"Arroz frito sin camaron",
+            "Price":850},
+            {"Plate":"Arroz frito con camaron",
+            "Price":1200}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Ensalada de vegetales",
+            "Price":250},
+            {"Type":"Racion de arroz moro",
+            "Price":200}
+        ],
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Torta",
+            "Price":550}
+        ],
+        "Vegetarian options":[
+            {"Option":"Garbanzos fritos",
+            "Classification":"Starters"},
+            {"Option":"Ensalada de vegetales",
+            "Classification":"Siders"}
+        ]
+    }
+}

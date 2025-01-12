@@ -1,0 +1,96 @@
+{
+    "Place":"Joe's Burguer",
+    "Location":[
+        {"Address":"Esquina Mayia Rodriguez y Aranguren",
+        "Municipality":"10 de octubre",
+        "Coordinates":"3JQC+5VW"}
+    ],
+    "Classification":"Cafe-Restaurant",
+    "Specialization":"Hamburgueseria",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"08h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves"]},
+        {"Opening":"08h00",
+        "Closing":"23h00",
+        "Days":["Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.6}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["10 de Octubre"]}
+    ],
+    "Phone":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"joes_burguer00"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":20,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Hamburguesa de cerdo",
+            "Price":500},
+            {"Plate":"Hamburguesa de pollo",
+            "Price":500},
+            {"Plate":"Hamburguesa de res",
+            "Price":700},
+            {"Plate":"Hamburguesa doble",
+            "Price":900},
+            {"Plate":"Bocadito de jamon y queso",
+            "Price":450}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":120},
+            {"Addition":"Lechuga",
+            "Price":100},
+            {"Addition":"Jamon",
+            "Price":100},
+            {"Addition":"Chorizo",
+            "Price":80},
+            {"Addition":"Bacon",
+            "Price":150},
+            {"Addition":"Huevo",
+            "Price":150},
+            {"Addition":"Cebolla",
+            "Price":150},
+            {"Addition":"Pepinillo",
+            "Price":30},
+            {"Addition":"Tomate",
+            "Price":100}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza",
+            "Price":350},
+            {"Type":"Limonada frappe",
+            "Price":500},
+            {"Type":"Batido de helado",
+            "Price":700},
+            {"Type":"Malteada",
+            "Price":500},
+            {"Type":"Potes de helado",
+            "Price":1000}
+        ],
+        "Desserts":[
+            {"Plate":"Copa de helado",
+            "Price":300}
+        ],
+        "Vegetarian options":null
+    }
+}

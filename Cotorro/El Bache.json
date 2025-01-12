@@ -1,0 +1,110 @@
+{
+    "Place":"El Bache",
+    "Location":[
+        {"Address":"Calle 30 entre 95 y 97, Las Brisas",
+        "Municipality":"Cotorro",
+        "Coordinates":"2PVP+4Q"}
+    ],
+    "Classification":"Pizzeria",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["Cotorro"]}
+    ],
+    "Phone number":"54703920",
+    "Accounts or website":[
+        {"Facebook":"El bache del cotorro"},
+        {"Instagram":"@_elbache"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","EUR","USD"]}
+    ],
+    "Capacity":10,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Lasagna",
+            "Price":800},
+            {"Plate":"Lasagna con queso Gouda",
+            "Price":1200},
+            {"Plate":"Espaghetti",
+            "Price":600},
+            {"Plate":"Espaghetti con queso Gouda",
+            "Price":900},
+            {"Plate":"Pizza Napolitana",
+            "Price":600},
+            {"Plate":"Pizza Doble Queso",
+            "Price":800},
+            {"Plate":"Pizza de queso Gouda",
+            "Price":900},
+            {"Plate":"Pizza de jamon",
+            "Price":800},
+            {"Plate":"Pizza de chorizo",
+            "Price":800},
+            {"Plate":"Pizza de aceitunas",
+            "Price":800},
+            {"Plate":"Pizza de atun",
+            "Price":1350},
+            {"Plate":"Pizza de cebolla",
+            "Price":800},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1100},
+            {"Plate":"Pizza 4 Estaciones",
+            "Price":1450}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":300},
+            {"Addition":"Jamon",
+            "Price":200},
+            {"Addition":"Chorizo",
+            "Price":200},
+            {"Addition":"Aceitunas",
+            "Price":200},
+            {"Addition":"Atun",
+            "Price":750},
+            {"Addition":"Cebolla",
+            "Price":200},
+            {"Addition":"Pina",
+            "Price":300},
+            {"Addition":"Queso Gouda",
+            "Price":650}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Espaghetti",
+            "Classification":"Main course"},
+            {"Option":"Espaghetti con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza Doble Queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza de queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza de aceitunas",
+            "Classification":"Main course"},
+            {"Option":"Pizza de cebolla",
+            "Classification":"Main course"}
+        ]
+    }
+}

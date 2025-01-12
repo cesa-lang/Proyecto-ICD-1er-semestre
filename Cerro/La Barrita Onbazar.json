@@ -1,0 +1,125 @@
+{
+    "Place":"La Barrita Onbazar",
+    "Location":[
+        {"Address":"Calle Amenidad entre Cruz del Padre e Infanta",
+        "Municipality":"Cerro",
+        "Coordinates":"4JCG+PC"}
+    ],
+    "Classification":"Bar-Restaurante",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves"]},
+        {"Opening":"09h00",
+        "Closing":"01h00",
+        "Days":["Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"54494741 / 52926090",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@la_barrita_onbazar"},
+        {"Website":"labarrita.onbazar.net"},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":25,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones rellenos",
+            "Price":1300},
+            {"Plate":"Picadera de jamon, queso y aceitunas",
+            "Price":750},
+            {"Plate":"Picadera mixta",
+            "Price":1600},
+            {"Plate":"Brochetas",
+            "Price":2000},
+            {"Plate":"Croquetas",
+            "Price":650}
+        ],
+        "Main course":[
+            {"Plate":"Pollo frito",
+            "Price":1500},
+            {"Plate":"Pollo chiflado",
+            "Price":1650},
+            {"Plate":"Pizza Napolitana",
+            "Price":850},
+            {"Plate":"Pizza de chorizo",
+            "Price":1000},
+            {"Plate":"Pizza de jamon",
+            "Price":1000},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1150},
+            {"Plate":"Pizza de cebolla",
+            "Price":1000},
+            {"Plate":"Espaghettis",
+            "Price":850},
+            {"Plate":"Espaghettis de jamon",
+            "Price":1100},
+            {"Plate":"Espaghettis de chorizo",
+            "Price":1000},
+            {"Plate":"Hamburguesa",
+            "Price":1200},
+            {"Plate":"Hamburguesa de jamon y queso",
+            "Price":1650},
+            {"Plate":"Hamburguesa Onbazar",
+            "Price":2700}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":150},
+            {"Addition":"Cebolla",
+            "Price":150},
+            {"Addition":"Chorizo",
+            "Price":150},
+            {"Addition":"Pina",
+            "Price":250},
+            {"Addition":"Doble queso",
+            "Price":250}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cafe Expresso",
+            "Price":180},
+            {"Type":"Cafe Cortado",
+            "Price":220},
+            {"Type":"Cappuccino",
+            "Price":450},
+            {"Type":"Cafe Bombon",
+            "Price":450},
+            {"Type":"Pina Colada Virgen",
+            "Price":600},
+            {"Type":"Pina Colada",
+            "Price":750},
+            {"Type":"Limonada Frappe",
+            "Price":400},
+            {"Type":"Malteada",
+            "Price":500}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza Napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza de cebolla",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis",
+            "Classification":"Main course"}
+        ]
+    }
+}

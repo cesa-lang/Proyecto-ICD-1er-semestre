@@ -1,0 +1,118 @@
+{
+    "Place":"Tutti Frutti",
+    "Location":[
+        {"Address":"#1070, Calle San Lazaro entre Espada y San Francisco",
+        "Municipality":"Centro Habana",
+        "Coordinates":"4JQF+F2"}
+    ],
+    "Classification":"Bar",
+    "Specialization":"Cocteleria",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"58271438",
+    "Accounts or website":[
+        {"Facebook":"Tutti Frutti Cuba"},
+        {"Instagram":"@tuttifrutticuba"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC","Otras"]}
+    ],
+    "Capacity":22,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Desayuno de la casa (Huevo (tortilla, revuelto, frito), pan tostado, mermelada, Tutti Frutti, Frutas frescas, Jugo natural o cafe)",
+            "Price":1200},
+            {"Plate":"Sandwich Cubano (Jamon, queso, lechuga, tomate, mayonesa, + agregos)",
+            "Price":1200},
+            {"Plate":"Sandwich de aguacate (Lechuga, queso, tomate, Aguacate, + agregos)",
+            "Price":1200},
+            {"Plate":"Picadera + 2 cervezas",
+            "Price":1000},
+            {"Plate":"Copa natural con frutas frescas de temporada",
+            "Price":800},
+            {"Plate":"Tutti Frutti con crema de fruta / Fruta fresca / Granola",
+            "Price":1300}
+        ],
+        "Additionals":[
+            {"Addition":"Huevo",
+            "Price":250},
+            {"Addition":"Atun",
+            "Price":800},
+            {"Addition":"Jamon",
+            "Price":300},
+            {"Addition":"Pollo",
+            "Price":500},
+            {"Addition":"Cebolla",
+            "Price":200}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Jugo natural",
+            "Price":400},
+            {"Type":"Batidos",
+            "Price":600},
+            {"Type":"Champola",
+            "Price":600},
+            {"Type":"Smoothies",
+            "Price":800},
+            {"Type":"Cappuccino / Leche con chocolate / Leche blanca",
+            "Price":400},
+            {"Type":"Cafe",
+            "Price":200},
+            {"Type":"Mojito",
+            "Price":700},
+            {"Type":"Mojito Tutti Frutti",
+            "Price":800},
+            {"Type":"Daiquiri",
+            "Price":700},
+            {"Type":"Daiquiri Tutti Frutti",
+            "Price":800},
+            {"Type":"Santiago",
+            "Price":900},
+            {"Type":"Cuba Libre",
+            "Price":700},
+            {"Type":"Pina Colada",
+            "Price":900},
+            {"Type":"Canchanchara",
+            "Price":800},
+            {"Type":"Caribbean",
+            "Price":900},
+            {"Type":"Emma",
+            "Price":900}
+        ],
+        "Desserts":[
+            {"Plate":"Dulce de fruta",
+            "Price":600}
+        ],
+        "Vegetarian options":[
+            {"Option":"Desayuno de la casa (Huevo (tortilla, revuelto, frito), pan tostado, mermelada, Tutti Frutti, Frutas frescas, Jugo natural o cafe)",
+            "Classification":"Main course"},
+            {"Option":"Sandwich de aguacate (Lechuga, queso, tomate, Aguacate, + agregos)",
+            "Classification":"Main course"},
+            {"Option":"Copa natural con frutas frescas de temporada",
+            "Classification":"Main course"},
+            {"Option":"Tutti Frutti con crema de fruta / Fruta fresca / Granola",
+            "Classification":"Main course"}
+        ]
+    }
+}

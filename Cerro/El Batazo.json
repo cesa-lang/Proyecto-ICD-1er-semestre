@@ -1,0 +1,89 @@
+{
+    "Place":"El Batazo",
+    "Location":[
+        {"Address":"#356, Primelles entre Santa Teresa y Daois",
+        "Municipality":"Cerro",
+        "Coordinates":"4J46+6CM"}
+    ],
+    "Classification":"Pizzeria",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["Cerro","Habana Vieja","Centro Habana","Plaza"]}
+    ],
+    "Phone number":"58050408",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":10,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Pizza de queso",
+            "Price":750},
+            {"Plate":"Pizza de chorizo",
+            "Price":930},
+            {"Plate":"Pizza de jamon",
+            "Price":930},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1130},
+            {"Plate":"Pizza de cebolla",
+            "Price":950},
+            {"Plate":"Pizza de aji",
+            "Price":950},
+            {"Plate":"Pizza de atun",
+            "Price":1250},
+            {"Plate":"Pizza de aceitunas",
+            "Price":950},
+            {"Plate":"Pizza de pepperoni",
+            "Price":1050},
+            {"Plate":"Espaghettis",
+            "Price":600},
+            {"Plate":"Espaghettis de jamon",
+            "Price":780},
+            {"Plate":"Hamburguesa Strike",
+            "Price":550},
+            {"Plate":"Hamburguesa Doble Play",
+            "Price":1000},
+            {"Plate":"Hamburguesa Homerun",
+            "Price":1300}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza de queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza de cebolla",
+            "Classification":"Main course"},
+            {"Option":"Pizza de aji",
+            "Classification":"Main course"},
+            {"Option":"Pizza de aceitunas",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis",
+            "Classification":"Main course"}
+        ]
+    }
+}

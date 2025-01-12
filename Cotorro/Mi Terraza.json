@@ -1,0 +1,147 @@
+{
+    "Place":"Mi Terraza",
+    "Location":[
+        {"Address":"Calle 71 entre 24 y 26, Las Brisas",
+        "Municipality":"Cotorro",
+        "Coordinates":null}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["Cotorro"]}
+    ],
+    "Phone number":"76822381",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@miterraza_pizzeria"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":30,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Crema de queso",
+            "Price":850},
+            {"Plate":"Crema Virginia",
+            "Price":1100},
+            {"Plate":"Croquetas con mayonesa",
+            "Price":400},
+            {"Plate":"Bolitas de queso con miel",
+            "Price":400},
+            {"Plate":"Frituras de malanga con miel",
+            "Price":400},
+            {"Plate":"Ensalada de pollo",
+            "Price":400},
+            {"Plate":"Fajitas de pollo",
+            "Price":1000},
+            {"Plate":"Tostones de atun",
+            "Price":1200},
+            {"Plate":"Tostones de jamon y queso",
+            "Price":1000},
+            {"Plate":"Pica Pica Mi Terraza",
+            "Price":1700}
+        ],
+        "Main course":[
+            {"Plate":"Sandwich de queso",
+            "Price":700},
+            {"Plate":"Sandwich de jamon",
+            "Price":650},
+            {"Plate":"Sandwich de jamon y queso",
+            "Price":900},
+            {"Plate":"Sandwich de atun",
+            "Price":1100},
+            {"Plate":"Sandwich Mi Terraza",
+            "Price":1100},
+            {"Plate":"Espaghettis Napolitanos",
+            "Price":1000},
+            {"Plate":"Espaghettis de jamon",
+            "Price":1250},
+            {"Plate":"Espaghettis de atun",
+            "Price":1400},
+            {"Plate":"Espaghettis a la Carbonara",
+            "Price":1600},
+            {"Plate":"Espaghettis Doble Queso",
+            "Price":1500},
+            {"Plate":"Canelos",
+            "Price":1500},
+            {"Plate":"Pizza Napolitana",
+            "Price":1200},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1700},
+            {"Plate":"Pizza Mi Terraza",
+            "Price":1800}
+        ],
+        "Additionals":[
+            {"Addition":"Doble queso",
+            "Price":500},
+            {"Addition":"Jamon",
+            "Price":300},
+            {"Addition":"Cebolla",
+            "Price":250},
+            {"Addition":"Pina",
+            "Price":200},
+            {"Addition":"Atun",
+            "Price":400},
+            {"Addition":"Aceitunas",
+            "Price":400},
+            {"Addition":"Chorizo",
+            "Price":200},
+            {"Addition":"Bacon",
+            "Price":700}
+        ],
+        "Siders":[
+            {"Type":"Papas prefritas",
+            "Price":600},
+            {"Type":"Chicharritas",
+            "Price":300}
+        ],
+        "Drinks":[
+            {"Type":"Limonada Frappe",
+            "Price":350},
+            {"Type":"Malteada",
+            "Price":500},
+            {"Type":"Chelada",
+            "Price":550},
+            {"Type":"Batidos (mango, frutabomba, guayaba)",
+            "Price":400},
+            {"Type":"Batidos de helado (fresa, chocolate, helado con galleta, mozcatel)",
+            "Price":600}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Crema de queso",
+            "Classification":"Starters"},
+            {"Option":"Bolitas de queso con miel",
+            "Classification":"Starters"},
+            {"Option":"Frituras de malanga con miel",
+            "Classification":"Starters"},
+            {"Option":"Sandwich de queso",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis Napolitanos",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis Doble Queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza Napolitana",
+            "Classification":"Main course"}
+        ]
+    }
+}
