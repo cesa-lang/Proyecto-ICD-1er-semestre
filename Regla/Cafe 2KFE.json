@@ -1,0 +1,108 @@
+{
+    "Place":"2KFE",
+    "Location":[
+        {"Address":"Calle Pereira entre Marti y Maceo",
+        "Municipality":"Regla",
+        "Coordinates":"4MH8+57M"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Comida mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"20h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes"]},
+        {"Opening":"10h00",
+        "Closing":"21h00",
+        "Days":["Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":10,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas",
+            "Price":300},
+            {"Plate":"Viandas fritas",
+            "Price":100},
+            {"Plate":"Brusquetas",
+            "Price":250},
+            {"Plate":"Entremes surtido",
+            "Price":800},
+            {"Plate":"Mini Gordon Blue",
+            "Price":800},
+            {"Plate":"Plato combinado",
+            "Price":1200}
+        ],
+        "Main course":[
+            {"Plate":"Tacos de jamon y queso",
+            "Price":650},
+            {"Plate":"Tacos de vegetales",
+            "Price":400},
+            {"Plate":"Tacos de pollo",
+            "Price":600},
+            {"Plate":"Tacos de res",
+            "Price":900},
+            {"Plate":"Tacos Carnitas",
+            "Price":850}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cafe Expresso",
+            "Price":100},
+            {"Type":"Cafe Americano",
+            "Price":100},
+            {"Type":"Cafe Cortadito",
+            "Price":150},
+            {"Type":"Cafe con leche",
+            "Price":200},
+            {"Type":"Cafe Expresso Macchiato",
+            "Price":180},
+            {"Type":"Cafe Caramel Macchiato",
+            "Price":250},
+            {"Type":"Cappuccino",
+            "Price":220},
+            {"Type":"Frappuccino",
+            "Price":500},
+            {"Type":"Cafe Irlandes",
+            "Price":250},
+            {"Type":"Cafe Caribeno",
+            "Price":180},
+            {"Type":"Cafe Alma Mia",
+            "Price":180},
+            {"Type":"Minty Coffee",
+            "Price":250},
+            {"Type":"2KF",
+            "Price":250},
+            {"Type":"Cafe Lujo",
+            "Price":600}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Viandas fritas",
+            "Classification":"Starters"}
+        ]
+    }
+}

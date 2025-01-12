@@ -1,0 +1,95 @@
+{
+    "Place":"Buena Vibra",
+    "Location":[
+        {"Address":"Calle Beltran entre Vista Hermosa y Velazquez",
+        "Municipality":"San Miguel del Padron",
+        "Coordinates":"3MX9+M25"}
+    ],
+    "Classification":"Bar-Cafeteria",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas",
+            "Price":400},
+            {"Plate":"Frituras de malanga",
+            "Price":400},
+            {"Plate":"Viandas fritas",
+            "Price":300},
+            {"Plate":"Tostones tradicionales",
+            "Price":300},
+            {"Plate":"Tostones rellenos",
+            "Price":500}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa de pollo",
+            "Price":300},
+            {"Plate":"Bistec de pollo",
+            "Price":850},
+            {"Plate":"Bistec de pollo empanado",
+            "Price":900},
+            {"Plate":"Higado de cerdo",
+            "Price":800},
+            {"Plate":"Lomo ahumado",
+            "Price":900},
+            {"Plate":"Bistec de cerdo",
+            "Price":900},
+            {"Plate":"Pechuga de pollo",
+            "Price":900},
+            {"Plate":"Espaghettis con queso",
+            "Price":400},
+            {"Plate":"Espaghettis con jamon",
+            "Price":550}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Tequila reposado",
+            "Price":300},
+            {"Type":"Licor crema",
+            "Price":200},
+            {"Type":"Pina colada",
+            "Price":300}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Viandas fritas",
+            "Classification":"Starters"},
+            {"Option":"Tostones tradicionales",
+            "Classification":"Starters"},
+            {"Option":"Espaghettis con queso",
+            "Classification":"Main course"}
+        ]
+    }
+}
