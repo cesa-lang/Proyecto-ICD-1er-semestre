@@ -1,0 +1,128 @@
+{
+    "Place":"Mythos",
+    "Location":[
+        {"Address":"Calle Cuba entre Empedrado y O'Reilly",
+        "Municipality":"Habana Vieja",
+        "Coordinates":"4JRW+3X"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina griega",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":5.0,
+        "Google Maps":5.0}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"63691718",
+    "Accounts or website":[
+        {"Facebook":"Mythos Cafe-Restaurante"},
+        {"Instagram":"@mythos.havana"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":25,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Hummus de garbanzo",
+            "Price":700},
+            {"Plate":"Melitzanosalata",
+            "Price":800},
+            {"Plate":"Tzatziki",
+            "Price":600},
+            {"Plate":"Papas fritas con queso feta y oregano",
+            "Price":1300},
+            {"Plate":"Tyropitakias",
+            "Price":1000},
+            {"Plate":"Aceitunas marinadas con queso feta",
+            "Price":700},
+            {"Plate":"Griego pobre",
+            "Price":750},
+            {"Plate":"Saganaki",
+            "Price":1500},
+            {"Plate":"Ensalada griega",
+            "Price":1750},
+            {"Plate":"Souvlaki de cerdo",
+            "Price":2500},
+            {"Plate":"Souvlaki de pechuga de pollo",
+            "Price":2100},
+            {"Plate":"Souvlaki de res",
+            "Price":2800},
+            {"Plate":"Souvlaki vegano",
+            "Price":2000},
+            {"Plate":"Souvlaki de queso feta",
+            "Price":2500}
+        ],
+        "Main course":[
+            {"Plate":"Pastitsio",
+            "Price":2300},
+            {"Plate":"Imam",
+            "Price":2000},
+            {"Plate":"Saganaki de langosta o camaron",
+            "Price":3500},
+            {"Plate":"Saganaki de frutos del mar",
+            "Price":4000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Demeter",
+            "Price":1800},
+            {"Type":"Afrodita",
+            "Price":2000},
+            {"Type":"Persefone",
+            "Price":2100},
+            {"Type":"Hades",
+            "Price":2500},
+            {"Type":"Dionisio",
+            "Price":2800},
+            {"Type":"Poseidon",
+            "Price":2500},
+            {"Type":"Ares",
+            "Price":2400},
+            {"Type":"Apolo",
+            "Price":2300},
+            {"Type":"Freddo Expresso",
+            "Price":450},
+            {"Type":"Freddo Cappuccino",
+            "Price":650}
+        ],
+        "Desserts":[
+            {"Plate":"Tarta de yogurt griego con reduccion de vino tinto",
+            "Price":1000}
+        ],
+        "Vegetarian options":[
+            {"Option":"Hummus de garbanzo",
+            "Classification":"Starters"},
+            {"Option":"Tzatziki",
+            "Classification":"Starters"},
+            {"Option":"Papas fritas con queso feta y oregano",
+            "Classification":"Starters"},
+            {"Option":"Aceitunas marinadas con queso feta",
+            "Classification":"Starters"},
+            {"Option":"Ensalada griega",
+            "Classification":"Starters"},
+            {"Option":"Souvlaki vegano",
+            "Classification":"Starters"},
+            {"Option":"Souvlaki de queso feta",
+            "Classification":"Starters"},
+            {"Option":"Tarta de yogurt griego con reduccion de vino tinto",
+            "Classification":"Desserts"}
+        ]
+    }
+}

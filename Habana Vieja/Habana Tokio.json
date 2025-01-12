@@ -1,0 +1,116 @@
+{
+    "Place":"Habana Tokio",
+    "Location":[
+        {"Address":"#523, Calle Obrapia entre Bernanza y Villegas",
+        "Municipality":"Habana Vieja",
+        "Coordinates":"4JPV+WC"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina japonesa",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":5.0,
+        "Google Maps":4.6}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"59172392 / 52723402",
+    "Accounts or website":[
+        {"Facebook":"Habana Tokio"},
+        {"Instagram":"@habanatokio"},
+        {"Website":"habanatokioweb.ltn.net"},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":20,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Takoyaki",
+            "Price":1000},
+            {"Plate":"Makizushi de atun",
+            "Price":1750},
+            {"Plate":"Makizushi de salmon",
+            "Price":2100},
+            {"Plate":"Makizushi mixto",
+            "Price":2750},
+            {"Plate":"Chashu",
+            "Price":1000},
+            {"Plate":"Sashimi de atun",
+            "Price":2200},
+            {"Plate":"Sashimi de salmon",
+            "Price":2900},
+            {"Plate":"Sashimi de calamar",
+            "Price":2900},
+            {"Plate":"Tataki de atun",
+            "Price":2300},
+            {"Plate":"Nigiri de atun",
+            "Price":2500},
+            {"Plate":"Nigiri de salmon",
+            "Price":2900},
+            {"Plate":"Yakitori",
+            "Price":2400},
+            {"Plate":"Karaage",
+            "Price":2400},
+            {"Plate":"Chicken Teriyaki",
+            "Price":2400},
+            {"Plate":"Tempura de calamar o camaron",
+            "Price":2300},
+            {"Plate":"Tempura Udon",
+            "Price":2000},
+            {"Plate":"Ramen (Shoyu o Miso)",
+            "Price":2550},
+            {"Plate":"Ramen (Shoyu o Miso) con camaron",
+            "Price":3000},
+            {"Plate":"Katsudon",
+            "Price":2850},
+            {"Plate":"Tonkatsu",
+            "Price":2750},
+            {"Plate":"Yakisoba",
+            "Price":2750},
+            {"Plate":"Yakisoba con mariscos o calamar",
+            "Price":3100},
+            {"Plate":"Yakisoba de camaron",
+            "Price":3100},
+            {"Plate":"Combo Habana-Tokio",
+            "Price":3900},
+            {"Plate":"Combo Sashimi de atun",
+            "Price":4200},
+            {"Plate":"Combo Sashimi de salmon",
+            "Price":4400},
+            {"Plate":"Oyakodon",
+            "Price":2800},
+            {"Plate":"Okonomiyaki",
+            "Price":1000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Kakigori",
+            "Price":800},
+            {"Plate":"Flan",
+            "Price":600}
+        ],
+        "Vegetarian options":[
+            {"Option":"Takoyaki",
+            "Classification":"Main course"},
+            {"Option":"Yakisoba",
+            "Classification":"Main course"}
+        ]
+    }
+}

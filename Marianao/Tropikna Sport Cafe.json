@@ -1,0 +1,121 @@
+{
+    "Place":"Tropikana Sport Cafe",
+    "Location":[
+        {"Address":"Calle 42 entre 71 y 72 A",
+        "Municipality":"Marianao",
+        "Coordinates":"4H29+JR"}
+    ],
+    "Classification":"Restaurant",
+    "Specialization":"Comida mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["Marianao","Playa"]}
+    ],
+    "Phone number":"52659916",
+    "Accounts or website":[
+        {"Facebook":"Tropikna Sport Cafe"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":null,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones",
+            "Price":350},
+            {"Plate":"Tostones rellenos",
+            "Price":450},
+            {"Plate":"Crema de queso",
+            "Price":450},
+            {"Plate":"Crema Aurora",
+            "Price":450},
+            {"Plate":"Crema de jamon",
+            "Price":450},
+            {"Plate":"Consome",
+            "Price":450},
+            {"Plate":"Eperlan",
+            "Price":500},
+            {"Plate":"Croquetas",
+            "Price":500},
+            {"Plate":"Picadera de la casa",
+            "Price":1000}
+        ],
+        "Main course":[
+            {"Plate":"Super Hamburguesa",
+            "Price":560},
+            {"Plate":"Pan con jamon y queso",
+            "Price":280},
+            {"Plate":"Espaghettis a la carbonara",
+            "Price":750},
+            {"Plate":"Espaghettis de queso Gouda",
+            "Price":650},
+            {"Plate":"Pizza de queso Gouda",
+            "Price":750},
+            {"Plate":"Pizza Hawaiana",
+            "Price":800},
+            {"Plate":"Pizza Tropicana",
+            "Price":950},
+            {"Plate":"Bistec de cerdo",
+            "Price":1300},
+            {"Plate":"Bistec de cerdo a la milanesa",
+            "Price":1800},
+            {"Plate":"Bistec de pollo",
+            "Price":1000},
+            {"Plate":"Pollo frito",
+            "Price":1000},
+            {"Plate":"Pollo a la milanesa",
+            "Price":1500},
+            {"Plate":"Ropa vieja",
+            "Price":1550},
+            {"Plate":"Pescado Canciller",
+            "Price":2500},
+            {"Plate":"Pescado entero",
+            "Price":2000},
+            {"Plate":"Rueda de atun",
+            "Price":1700},
+            {"Plate":"Camarones al gusto",
+            "Price":1700},
+            {"Plate":"Filete de pescado",
+            "Price":1500},
+            {"Plate":"Arroz frito",
+            "Price":700}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Helado Gusto 1L",
+            "Price":1000}
+        ],
+        "Vegetarian options":[
+            {"Option":"Tostones",
+            "Classification":"Starters"},
+            {"Option":"Crema de queso",
+            "Classification":"Starters"},
+            {"Option":"Crema Aurora",
+            "Classification":"Starters"},
+            {"Option":"Espaghettis de queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza de queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

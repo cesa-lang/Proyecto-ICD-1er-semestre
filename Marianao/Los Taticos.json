@@ -1,0 +1,115 @@
+{
+    "Place":"Los Taticos",
+    "Location":[
+        {"Address":"27 y 27A, ",
+        "Municipality":"Marianao",
+        "Coordinates":"3HM7+JJC"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Comida mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"08h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":false}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":20,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Picadera Tatico",
+            "Price":2800},
+            {"Plate":"Entremes surtido",
+            "Price":800},
+            {"Plate":"Tostones rellenos",
+            "Price":800},
+            {"Plate":"Bolitas de queso",
+            "Price":800},
+            {"Plate":"Bolitas de carne",
+            "Price":800},
+            {"Plate":"Croquetas caseras",
+            "Price":800}
+        ],
+        "Main course":[
+            {"Plate":"Super Hamburguesa Tatico",
+            "Price":900},
+            {"Plate":"Hamburguesa Tatico",
+            "Price":750},
+            {"Plate":"Super Hamburguesa de queso",
+            "Price":800},
+            {"Plate":"Hamburguesa de queso",
+            "Price":650},
+            {"Plate":"Super Hamburguesa sencilla",
+            "Price":700},
+            {"Plate":"Hamburguesa sencilla",
+            "Price":600},
+            {"Plate":"Sandwich Tatico",
+            "Price":650},
+            {"Plate":"Bocadito de atun",
+            "Price":600},
+            {"Plate":"Pan con lechon",
+            "Price":650},
+            {"Plate":"Pan con croqueta",
+            "Price":240},
+            {"Plate":"Lasagna",
+            "Price":1250},
+            {"Plate":"Pizza Tatico",
+            "Price":1200},
+            {"Plate":"Pizza Mixta",
+            "Price":850},
+            {"Plate":"Pizza Hawaiana",
+            "Price":800},
+            {"Plate":"Pizza de jamon",
+            "Price":740},
+            {"Plate":"Pizza de queso",
+            "Price":680},
+            {"Plate":"Taco de cerdo",
+            "Price":650},
+            {"Plate":"Pollo al carbon",
+            "Price":1200},
+            {"Plate":"Taco de carne",
+            "Price":800},
+            {"Plate":"Taco de atun",
+            "Price":800}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz blanco",
+            "Price":null},
+            {"Type":"Arroz moro",
+            "Price":null},
+            {"Type":"Frijoles",
+            "Price":null}
+        ],
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Bolitas de queso",
+            "Classification":"Starters"},
+            {"Option":"Pizza de queso",
+            "Classification":"Main course"}
+        ]
+    }
+}
