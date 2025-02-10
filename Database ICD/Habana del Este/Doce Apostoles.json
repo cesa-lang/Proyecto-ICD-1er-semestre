@@ -1,0 +1,104 @@
+{
+    "Place":"Los Doce Apostoles",
+    "Location":[
+        {"Address":"Complejo Morro Cabana,Via Monumental",
+        "Municipality":"Habana Del Este",
+        "Coordinates":"4JXV+VHP"}
+    ],
+    "Classification":"Bar-Restaurant",
+    "Specialization":"Criolla",
+    "Ownership":"Estatal",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":3.5,
+        "Google Maps":3.7}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone":"77937733",
+    "Accounts or website":[
+        {"Facebook":"Restaurante Doce Apostoles"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":60,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Entremes de jamon y queso",
+            "Price":400},
+            {"Plate":"Eperlan de pescado",
+            "Price":550},
+            {"Plate":"Anillas de calamar",
+            "Price":550},
+            {"Plate":"Alitas de pollo",
+            "Price":450},
+            {"Plate":"Nuggets de pollo",
+            "Price":250},
+            {"Plate":"Picadera especial",
+            "Price":600}
+        ],
+        "Main course":[
+            {"Plate":"Pollo grille",
+            "Price":700},
+            {"Plate":"Fajitas de res",
+            "Price":950},
+            {"Plate":"Steak de res",
+            "Price":950},
+            {"Plate":"Fajitas de cerdo",
+            "Price":800},
+            {"Plate":"Masas de cerdo",
+            "Price":900},
+            {"Plate":"Filete de pescado",
+            "Price":900},
+            {"Plate":"Pescado del Chef",
+            "Price":1100},
+            {"Plate":"Gambas al grill",
+            "Price":1200}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza dispensada",
+            "Price":190},
+            {"Type":"Cerveza importada",
+            "Price":220},
+            {"Type":"Cerveza nacional",
+            "Price":215},
+            {"Type":"Maltas",
+            "Price":210},
+            {"Type":"Maltina Perla Negra",
+            "Price":180},
+            {"Type":"Jugo natural en caja",
+            "Price":300},
+            {"Type":"Refrescos nacionales",
+            "Price":280},
+            {"Type":"Vino tinto (copa)",
+            "Price":200},
+            {"Type":"Ron Habana Club Anejo Blanco (shot)",
+            "Price":80},
+            {"Type":"Ron Habana Club profundo (shot)",
+            "Price":160},
+            {"Type":"Ron Habana Club Selección de Maestro (shot)",
+            "Price":350},
+            {"Type":"Ron Cubay carta blanca (shot)",
+            "Price":100}
+        ],
+        "Desserts":null,
+        "Vegetarian options":null
+    }
+}

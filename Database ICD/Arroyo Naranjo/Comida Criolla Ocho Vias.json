@@ -1,0 +1,109 @@
+{
+    "Place":"Comida Criolla Ocho Vias",
+    "Location":[
+        {"Address":"3er kilometro de Avenida 1er Anillo despues de San Agustin",
+        "Municipality":"Arroyo Naranjo",
+        "Coordinates":"3M28+7W7"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"59107933",
+    "Accounts or website":[
+        {"Facebook":"8 Vias Comida Criolla"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":15,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas de queso",
+            "Price":500},
+            {"Plate":"Tostones rellenos",
+            "Price":800},
+            {"Plate":"Tostones tradicionales",
+            "Price":250},
+            {"Plate":"Papas fritas",
+            "Price":800},
+            {"Plate":"Platanos fritos",
+            "Price":200}
+        ],
+        "Main course":[
+            {"Plate":"Bistec de higado",
+            "Price":1600},
+            {"Plate":"Higado a la italiana",
+            "Price":1600},
+            {"Plate":"Bistec de cerdo",
+            "Price":2200},
+            {"Plate":"Chuleta de cerdo",
+            "Price":2200},
+            {"Plate":"Fricase de cerdo",
+            "Price":2500},
+            {"Plate":"Masa frita",
+            "Price":2200},
+            {"Plate":"Fricase de carnero",
+            "Price":2200},
+            {"Plate":"Bistec Uruguayo",
+            "Price":2800},
+            {"Plate":"Pescado entero a la marinera",
+            "Price":2200},
+            {"Plate":"Ropa vieja",
+            "Price":2700},
+            {"Plate":"Camaron enchilado",
+            "Price":2700},
+            {"Plate":"Langosta grille",
+            "Price":2700},
+            {"Plate":"Langosta enchilada",
+            "Price":2800},
+            {"Plate":"Pescado empanado",
+            "Price":2500},
+            {"Plate":"Enchilado de cangrejo",
+            "Price":1800},
+            {"Plate":"Bistec de pollo",
+            "Price":2000},
+            {"Plate":"Pechuga de pollo",
+            "Price":2500},
+            {"Plate":"Costilla frita o fricase",
+            "Price":2200}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz moro",
+            "Price":200},
+            {"Type":"Ensalada mixta",
+            "Price":300}
+        ],
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Tostones tradicionales",
+            "Classification":"Starters"},
+            {"Option":"Papas fritas",
+            "Classification":"Starters"},
+            {"Option":"Platanos fritos",
+            "Classification":"Starters"}
+        ]
+    }
+}

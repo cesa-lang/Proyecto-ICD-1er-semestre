@@ -1,0 +1,103 @@
+{
+    "Place":"La Casona del Cerro",
+    "Location":[
+        {"Address":"Calzada del Cerro entre Arzobispo y Penon",
+        "Municipality":"Cerro",
+        "Coordinates":"4J58+JVH"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"]},
+        {"Opening":"10h00",
+        "Closing":"14h00",
+        "Days":["Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"52901805",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":20,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Pizza Napolitana con queso Gouda",
+            "Price":450},
+            {"Plate":"Pizza Doble Queso",
+            "Price":650},
+            {"Plate":"Pizza de jamon y queso Gouda",
+            "Price":500},
+            {"Plate":"Pizza mixta con queso Gouda",
+            "Price":550},
+            {"Plate":"Pizza Familiar con queso Gouda",
+            "Price":900},
+            {"Plate":"Pizza Familiar con doble queso",
+            "Price":1200},
+            {"Plate":"Pizza Familiar de jamon y queso Gouda",
+            "Price":1000},
+            {"Plate":"Pizza mixta con queso Gouda",
+            "Price":1050},
+            {"Plate":"Spaghetti con queso Gouda",
+            "Price":450},
+            {"Plate":"Spaghetti con jamon y queso Gouda",
+            "Price":500},
+            {"Plate":"Spaghetti Doble Queso Gouda",
+            "Price":650},
+            {"Plate":"Spaghetti mixto",
+            "Price":550},
+            {"Plate":"Pollo asado",
+            "Price":1100},
+            {"Plate":"Masa frita",
+            "Price":900},
+            {"Plate":"Bistec de cerdo",
+            "Price":850},
+            {"Plate":"Fricase de cerdo",
+            "Price":850},
+            {"Plate":"Chuleta",
+            "Price":1000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Pizza Familiar con doble queso",
+            "Price":350}
+        ],
+        "Vegetarian options":[
+            {"Option":"Pizza Napolitana con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Doble Queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con doble queso",
+            "Classification":"Main course"},
+            {"Option":"Spaghetti con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Spaghetti Doble Queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "Place":"El Mexicano",
+    "Location":[
+        {"Address":"Avenida 5ta entre Cruz Verde y E V Valenzuela",
+        "Municipality":"Guanabacoa",
+        "Coordinates":"4MHR+MC7"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.7}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"72635413",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Sandwich de jamon y queso",
+            "Price":350},
+            {"Plate":"Sandwich de queso y jamon especial",
+            "Price":600},
+            {"Plate":"Pizza de queso Gouda",
+            "Price":450},
+            {"Plate":"Spaghettis de queso Gouda",
+            "Price":770}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza dispensada",
+            "Price":200},
+            {"Type":"Cerveza Hollandia",
+            "Price":200},
+            {"Type":"Cerveza Cristal en lata",
+            "Price":250},
+            {"Type":"Cerveza Cristal en botella",
+            "Price":200},
+            {"Type":"Shaka",
+            "Price":350},
+            {"Type":"Tigon",
+            "Price":300},
+            {"Type":"Malta 1 Hiper",
+            "Price":270},
+            {"Type":"Pepsi",
+            "Price":270},
+            {"Type":"Mirinda",
+            "Price":280},
+            {"Type":"Perla Negra",
+            "Price":270},
+            {"Type":"Ironbeer",
+            "Price":240},
+            {"Type":"Orange",
+            "Price":220},
+            {"Type":"Cola Polo",
+            "Price":220},
+            {"Type":"Refresco de limon",
+            "Price":220},
+            {"Type":"Coca Cola",
+            "Price":280}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza de queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Spaghettis de queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

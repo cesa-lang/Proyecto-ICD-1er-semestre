@@ -1,0 +1,74 @@
+{
+    "Place":"Don Timbon",
+    "Location":[
+        {"Address":"Carretera Central de Cuba en calle paralela al Callejon La Flora",
+        "Municipality":"San Miguel del Padron",
+        "Coordinates":"3MHJ+47F"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.8}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":12,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Hamburguesa sencilla",
+            "Price":350},
+            {"Plate":"Pan con bistec",
+            "Price":550},
+            {"Plate":"Arroz salteado",
+            "Price":500},
+            {"Plate":"Lasagna",
+            "Price":550},
+            {"Plate":"Espaghetti",
+            "Price":300},
+            {"Plate":"Pizza Napolitana",
+            "Price":160}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":80},
+            {"Addition":"Chorizo",
+            "Price":100},
+            {"Addition":"Atun",
+            "Price":100}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Espaghetti",
+            "Classification":"Main course"},
+            {"Option":"Pizza Napolitana",
+            "Classification":"Main course"}
+        ]
+    }
+}

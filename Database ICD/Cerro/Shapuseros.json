@@ -1,0 +1,73 @@
+{
+    "Place":"Shapuseros",
+    "Location":[
+        {"Address":"#663, Calzada de Ayestaran entre Lombillo y Pinera",
+        "Municipality":"Cerro",
+        "Coordinates":"4J88+W53"}
+    ],
+    "Classification":"Hamburgueseria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"21h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"51167420",
+    "Accounts or website":[
+        {"Facebook":"Shapuseros"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":"sapuseros@gmail.com"}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":15,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Hamburguesa de pollo",
+            "Price":500},
+            {"Plate":"Hamburguesa de cerdo",
+            "Price":550},
+            {"Plate":"Hamburguesa de res",
+            "Price":600},
+            {"Plate":"Hamburguesa Shapusero",
+            "Price":1200}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":150},
+            {"Addition":"Jamon",
+            "Price":120},
+            {"Addition":"Chorizo",
+            "Price":150},
+            {"Addition":"Bacon",
+            "Price":155},
+            {"Addition":"Huevo",
+            "Price":150},
+            {"Addition":"Cebolla",
+            "Price":50},
+            {"Addition":"Salsa BBQ",
+            "Price":30}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":null
+    }
+}

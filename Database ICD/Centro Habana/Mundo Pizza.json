@@ -1,0 +1,143 @@
+{
+    "Place":"Mundo Pizza",
+    "Location":[
+        {"Address":"#309, Calle San Nicolas entre Neptuno y San Miguel",
+        "Municipality":"Centro Habana",
+        "Coordinates":"4JPP+X9"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Comida italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.5,
+        "Google Maps":4.6}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"53372715",
+    "Accounts or website":[
+        {"Facebook":"Mundo Pizza"},
+        {"Instagram":"@mundopizza_habana"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":30,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas caseras",
+            "Price":590},
+            {"Plate":"Tostones criollos",
+            "Price":540},
+            {"Plate":"Focaccia",
+            "Price":560},
+            {"Plate":"Pizza Rossa",
+            "Price":590}
+        ],
+        "Main course":[
+            {"Plate":"Espaghettis",
+            "Price":950},
+            {"Plate":"Lasagna",
+            "Price":1250},
+            {"Plate":"Espaghettis al Pesto",
+            "Price":1050},
+            {"Plate":"Espaghettis del Dia",
+            "Price":1600},
+            {"Plate":"Pizza Metro Criolla",
+            "Price":2800},
+            {"Plate":"Pizza Metro Casa",
+            "Price":3700},
+            {"Plate":"Pizza Metro Gouda",
+            "Price":5100},
+            {"Plate":"Pizza Metro Eleccion",
+            "Price":5150},
+            {"Plate":"Pizza 1/2 Metro Mix",
+            "Price":2500},
+            {"Plate":"Pizza 1/2 Metro Eleccion",
+            "Price":2700}
+        ],
+        "Additionals":[
+            {"Addition":"Queso blanco",
+            "Price":450},
+            {"Addition":"Chorizo",
+            "Price":500},
+            {"Addition":"Jamon",
+            "Price":450},
+            {"Addition":"Huevo",
+            "Price":270},
+            {"Addition":"Camarones",
+            "Price":800},
+            {"Addition":"Atun",
+            "Price":800},
+            {"Addition":"Chocolate",
+            "Price":600},
+            {"Addition":"Cebolla",
+            "Price":275},
+            {"Addition":"Pimiento",
+            "Price":275},
+            {"Addition":"Pesto",
+            "Price":350},
+            {"Addition":"Hawaiana",
+            "Price":550},
+            {"Addition":"Gouda",
+            "Price":800},
+            {"Addition":"Aceitunas",
+            "Price":350},
+            {"Addition":"Pina",
+            "Price":275}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Refresco",
+            "Price":250},
+            {"Type":"Cerveza",
+            "Price":300},
+            {"Type":"Energizante",
+            "Price":390},
+            {"Type":"Jugo de cajita",
+            "Price":250},
+            {"Type":"Yogurt",
+            "Price":250},
+            {"Type":"Malta",
+            "Price":300}
+        ],
+        "Desserts":[
+            {"Plate":"Bolsa de regalo con mixto de confituras",
+            "Price":1000}
+        ],
+        "Vegetarian options":[
+            {"Option":"Tostones criollos",
+            "Classification":"Starters"},
+            {"Option":"Espaghettis",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis al Pesto",
+            "Classification":"Main course"},
+            {"Option":"Pizza Metro Criolla",
+            "Classification":"Main course"},
+            {"Option":"Pizza Metro Casa",
+            "Classification":"Main course"},
+            {"Option":"Pizza Metro Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Metro Eleccion",
+            "Classification":"Main course"},
+            {"Option":"Pizza 1/2 Metro Mix",
+            "Classification":"Main course"},
+            {"Option":"Pizza 1/2 Metro Eleccion",
+            "Classification":"Main course"}
+        ]
+    }
+}

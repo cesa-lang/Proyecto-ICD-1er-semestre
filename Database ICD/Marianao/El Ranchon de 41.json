@@ -1,0 +1,94 @@
+{
+    "Place":"El Ranchon de 41",
+    "Location":[
+        {"Address":"Avenida 41 entre 82 y 84",
+        "Municipality":"Marianao",
+        "Coordinates":"3HQH+R9"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":null,
+        "Closing":null,
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"52014975",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas de la casa",
+            "Price":400},
+            {"Plate":"Coctel de camaron",
+            "Price":650},
+            {"Plate":"Picadera el toro bravo",
+            "Price":1700}
+        ],
+        "Main course":[
+            {"Plate":"Espaghettis",
+            "Price":700},
+            {"Plate":"Pizza de queso blanco",
+            "Price":400},
+            {"Plate":"Pizza de queso Gouda",
+            "Price":680},
+            {"Plate":"Pollo Chiflado",
+            "Price":1200},
+            {"Plate":"Fajitas de pollo",
+            "Price":750}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":200},
+            {"Addition":"Jamon",
+            "Price":150},
+            {"Addition":"Chorizo",
+            "Price":150},
+            {"Addition":"Cebolla",
+            "Price":150},
+            {"Addition":"Pina",
+            "Price":150},
+            {"Addition":"Aceitunas",
+            "Price":200},
+            {"Addition":"Queso Gouda",
+            "Price":500},
+            {"Addition":"Atun",
+            "Price":300}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Suero de helado",
+            "Price":400}
+        ],
+        "Vegetarian options":[
+            {"Option":"Espaghettis",
+            "Classification":"Main course"},
+            {"Option":"Pizza de queso blanco",
+            "Classification":"Main course"},
+            {"Option":"Pizza de queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

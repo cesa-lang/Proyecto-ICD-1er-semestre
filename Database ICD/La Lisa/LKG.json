@@ -1,0 +1,92 @@
+{
+    "Place":"LKG",
+    "Location":[
+        {"Address":"Avenida 51",
+        "Municipality":"La Lisa",
+        "Coordinates":null}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina caribena",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":null,
+        "Closing":null,
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":10,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Bistec",
+            "Price":900},
+            {"Plate":"Fricase",
+            "Price":900},
+            {"Plate":"Pollo",
+            "Price":1200},
+            {"Plate":"Cangrejo",
+            "Price":550},
+            {"Plate":"Arroz frito",
+            "Price":600},
+            {"Plate":"Langosta",
+            "Price":1400},
+            {"Plate":"Rueda de pescado",
+            "Price":950},
+            {"Plate":"Pescado entero",
+            "Price":950},
+            {"Plate":"Pizza de jamon",
+            "Price":300},
+            {"Plate":"Pizza de queso",
+            "Price":200},
+            {"Plate":"Pizza de doble queso",
+            "Price":250},
+            {"Plate":"Pizza de queso Gouda",
+            "Price":250}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cafe Expresso",
+            "Price":20},
+            {"Type":"Agua mineral",
+            "Price":150},
+            {"Type":"Cerveza",
+            "Price":250},
+            {"Type":"Refresco importado",
+            "Price":230},
+            {"Type":"Batidos de frutas",
+            "Price":235}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza de queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza de doble queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza de queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

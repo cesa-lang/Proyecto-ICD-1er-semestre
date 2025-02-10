@@ -1,0 +1,143 @@
+{
+    "Place":"Rico Rico",
+    "Location":[
+        {"Address":"Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+        "Municipality":"Cerro",
+        "Coordinates":"4JF9+RR"}
+    ],
+    "Classification":"Pizzeria",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.0,
+        "Google Maps":2.4}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"78701632 / 51483086",
+    "Accounts or website":[
+        {"Facebook":"RicoRico pizzeria"},
+        {"Instagram":"@ricoricopizzeria"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":5,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Ensalada fria de atun pequena",
+            "Price":645},
+            {"Plate":"Ensalada fria de atun mediana",
+            "Price":1200},
+            {"Plate":"Ensalada fria de atun grande",
+            "Price":2205},
+            {"Plate":"Ensalada fria de jamon y queso pequena",
+            "Price":495},
+            {"Plate":"Pizzeta de Napole",
+            "Price":230},
+            {"Plate":"Pizzeta de chorizo",
+            "Price":325},
+            {"Plate":"Bastones de queso",
+            "Price":780},
+            {"Plate":"Empanadas gallegas",
+            "Price":380},
+            {"Plate":"Tequenos",
+            "Price":350},
+            {"Plate":"Maripositas chinas",
+            "Price":260}
+        ],
+        "Main course":[
+            {"Plate":"Pizza Napoles",
+            "Price":920},
+            {"Plate":"Pasta Napoles",
+            "Price":920},
+            {"Plate":"Pasta Carbonara",
+            "Price":1000},
+            {"Plate":"Calzone Napoles",
+            "Price":1090},
+            {"Plate":"Megacalzone",
+            "Price":1440},
+            {"Plate":"Lasagna Bolognesa",
+            "Price":1550},
+            {"Plate":"Lasagna de jamon",
+            "Price":1490},
+            {"Plate":"Pastelito de ojaldre de jamon y queso",
+            "Price":280},
+            {"Plate":"Arroz frito",
+            "Price":650},
+            {"Plate":"Arroz frito especial",
+            "Price":850}
+        ],
+        "Additionals":[
+            {"Addition":"Aceitunas",
+            "Price":220},
+            {"Addition":"Pina",
+            "Price":220},
+            {"Addition":"Cebolla",
+            "Price":400},
+            {"Addition":"Atun",
+            "Price":550},
+            {"Addition":"Chorizo",
+            "Price":290},
+            {"Addition":"Bacon",
+            "Price":360},
+            {"Addition":"Jamon",
+            "Price":320},
+            {"Addition":"Jamon Serrano",
+            "Price":480},
+            {"Addition":"Parmesano",
+            "Price":350},
+            {"Addition":"Gouda",
+            "Price":360},
+            {"Addition":"Lomo ahumado",
+            "Price":380},
+            {"Addition":"Queso azul",
+            "Price":300}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Frappi Rico",
+            "Price":180},
+            {"Type":"Mega Bati Bati",
+            "Price":990},
+            {"Type":"Super Bati Bati",
+            "Price":785},
+            {"Type":"Bati Frutas",
+            "Price":675}
+        ],
+        "Desserts":[
+            {"Plate":"Pastelito de ojaldre de guayaba o coco",
+            "Price":260},
+            {"Plate":"Flan",
+            "Price":590}
+        ],
+        "Vegetarian options":[
+            {"Option":"Pizzeta de Napole",
+            "Classification":"Starters"},
+            {"Option":"Bastones de queso",
+            "Classification":"Starters"},
+            {"Option":"Maripositas chinas",
+            "Classification":"Starters"},
+            {"Option":"Pizza Napoles",
+            "Classification":"Main course"},
+            {"Option":"Pasta Napoles",
+            "Classification":"Main course"},
+            {"Option":"Calzone Napoles",
+            "Classification":"Main course"}
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "Place":"Kafe DVD",
+    "Location":[
+        {"Address":"San Francisco entre 10 de Octubre y Delicias",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"3JWP+4Q7"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":null,
+        "Closing":null,
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.5}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":10,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Alitas de pollo",
+            "Price":1300},
+            {"Plate":"Tacos",
+            "Price":600},
+            {"Plate":"Croquetas",
+            "Price":400},
+            {"Plate":"Fajitas de pollo",
+            "Price":900},
+            {"Plate":"Tostones al ajillo",
+            "Price":350},
+            {"Plate":"Tostones",
+            "Price":300},
+            {"Plate":"Chicharritas",
+            "Price":150},
+            {"Plate":"Frituras de malanga",
+            "Price":400}
+        ],
+        "Main course":[
+            {"Plate":"Pan con perro",
+            "Price":300},
+            {"Plate":"Pan con tortilla",
+            "Price":250},
+            {"Plate":"Pan con hamburguesa",
+            "Price":400},
+            {"Plate":"Pan con hamburguesa y mariquitas",
+            "Price":500},
+            {"Plate":"Fricase de cerdo",
+            "Price":1300},
+            {"Plate":"Masas de cerdo",
+            "Price":1200},
+            {"Plate":"Chuleta de cerdo",
+            "Price":1500},
+            {"Plate":"Bistec de cerdo",
+            "Price":1000},
+            {"Plate":"Bistec de pollo",
+            "Price":950},
+            {"Plate":"Higado con su salsa",
+            "Price":770},
+            {"Plate":"Higado a la italiana",
+            "Price":730},
+            {"Plate":"Higado encebollado",
+            "Price":650},
+            {"Plate":"Arroz frito",
+            "Price":700},
+            {"Plate":"Pasta napolitana",
+            "Price":700},
+            {"Plate":"Pizza grande",
+            "Price":300},
+            {"Plate":"Pizza chiquita",
+            "Price":200}
+        ],
+        "Additionals":[
+            {"Addition":"Chorizo",
+            "Price":100},
+            {"Addition":"Jamon",
+            "Price":100},
+            {"Addition":"Queso",
+            "Price":200},
+            {"Addition":"cebolla",
+            "Price":100},
+            {"Addition":"Pimiento",
+            "Price":100},
+            {"Addition":"Aceitunas",
+            "Price":200}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza",
+            "Price":200},
+            {"Type":"Energizante",
+            "Price":300},
+            {"Type":"Jugo de lata",
+            "Price":300},
+            {"Type":"Refresco Pepsi",
+            "Price":250},
+            {"Type":"Refresco",
+            "Price":220}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Tostones al ajillo",
+            "Classification":"Starters"},
+            {"Option":"Tostones",
+            "Classification":"Starters"},
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Chicharritas",
+            "Classification":"Starters"},
+            {"Option":"Pan con tortilla",
+            "Classification":"Main course"},
+            {"Option":"Pasta napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande",
+            "Classification":"Main course"},
+            {"Option":"Pizza chiquita",
+            "Classification":"Main course"}
+        ]
+    }
+}

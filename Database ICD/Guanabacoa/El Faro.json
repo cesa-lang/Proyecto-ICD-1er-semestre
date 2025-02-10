@@ -1,0 +1,100 @@
+{
+    "Place":"El Faro",
+    "Location":[
+        {"Address":"Esquina de Pepe Antonio y Maximo Gomez",
+        "Municipality":"Guanabacoa",
+        "Coordinates":"4MFW+P84"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":3.7}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"53595558",
+    "Accounts or website":[
+        {"Facebook":"ElFaro Guanabacoa"},
+        {"Instagram":"@_elfar0"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Enchilado de cangrejo",
+            "Price":750},
+            {"Plate":"Croquetas de la casa",
+            "Price":180},
+            {"Plate":"Ensalada fria de jamon",
+            "Price":700},
+            {"Plate":"Ensalada fria de atun",
+            "Price":1200},
+            {"Plate":"Picadera Tropical",
+            "Price":850},
+            {"Plate":"Plato a lo Cubano",
+            "Price":800}
+        ],
+        "Main course":[
+            {"Plate":"Pan con hamburguesa",
+            "Price":500},
+            {"Plate":"Hamburguesa Faro",
+            "Price":900},
+            {"Plate":"Costillas de cerdo",
+            "Price":1200},
+            {"Plate":"Ruedas de pescado grille",
+            "Price":1400},
+            {"Plate":"Pollo grille",
+            "Price":950},
+            {"Plate":"Pizza El Faro",
+            "Price":900},
+            {"Plate":"Pizza Combinada",
+            "Price":900},
+            {"Plate":"Pizza Hawaiana",
+            "Price":900},
+            {"Plate":"Pizza de cebolla",
+            "Price":900},
+            {"Plate":"Pizza de pimiento",
+            "Price":900},
+            {"Plate":"Pizza Gustazo (doble queso)",
+            "Price":900},
+            {"Plate":"Pizza de jamon",
+            "Price":900},
+            {"Plate":"Spaghetti napolitano",
+            "Price":750},
+            {"Plate":"Spaghetti de jamon",
+            "Price":850}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza de cebolla",
+            "Classification":"Main course"},
+            {"Option":"Pizza de pimiento",
+            "Classification":"Main course"},
+            {"Option":"Pizza Gustazo (doble queso)",
+            "Classification":"Main course"},
+            {"Option":"Spaghetti napolitano",
+            "Classification":"Main course"}
+        ]
+    }
+}

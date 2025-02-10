@@ -1,0 +1,87 @@
+{
+    "Place":"La Baliza",
+    "Location":[
+        {"Address":"Esquina de Avenida 23 y calle 222",
+        "Municipality":"La Lisa",
+        "Coordinates":"3G8J+WP6"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"21h30",
+        "Days":["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.7}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"53005060 / 78322553",
+    "Accounts or website":[
+        {"Facebook":"La Baliza"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":10,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Sandwich de jamon y queso",
+            "Price":500},
+            {"Plate":"Hamburguesa",
+            "Price":490},
+            {"Plate":"Super Hamburguesa",
+            "Price":950},
+            {"Plate":"Pizza pequena con queso Gouda",
+            "Price":450},
+            {"Plate":"Pizza grande con queso Gouda",
+            "Price":700},
+            {"Plate":"Pizza pequena de queso blanco",
+            "Price":350},
+            {"Plate":"Pizza grande de queso blanco",
+            "Price":520}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":null},
+            {"Addition":"Queso Gouda",
+            "Price":null}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cerveza importada",
+            "Price":250},
+            {"Type":"Batido de mamey",
+            "Price":230},
+            {"Type":"Refresco importado",
+            "Price":230},
+            {"Type":"Agua mineral natural",
+            "Price":150}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza pequena con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza pequena de queso blanco",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande de queso blanco",
+            "Classification":"Main course"}
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "Place":"El Desafio",
+    "Location":[
+        {"Address":"#6712, Calle 58 entre 67 y 69",
+        "Municipality":"Cotorro",
+        "Coordinates":"2QV2+PH"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Estatal",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.6}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"63510685",
+    "Accounts or website":[
+        {"Facebook":"Parrillada El Desafio SURL"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":40,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones campesinos",
+            "Price":435},
+            {"Plate":"Eperlan",
+            "Price":985},
+            {"Plate":"Croquetas",
+            "Price":575},
+            {"Plate":"Coctel de langosta",
+            "Price":1135}
+        ],
+        "Main course":[
+            {"Plate":"Filete de pescado empanado",
+            "Price":995},
+            {"Plate":"Masa frita",
+            "Price":1885},
+            {"Plate":"Bistec de cerdo",
+            "Price":1885},
+            {"Plate":"Lomo deshuesado",
+            "Price":1885},
+            {"Plate":"Pierna ahumada",
+            "Price":1945},
+            {"Plate":"Filete de cerdo",
+            "Price":2995},
+            {"Plate":"Costilla",
+            "Price":1935},
+            {"Plate":"Langosta",
+            "Price":1985},
+            {"Plate":"Pechuga a la brasa",
+            "Price":1535},
+            {"Plate":"Enchilado de langosta",
+            "Price":2235},
+            {"Plate":"Langoston",
+            "Price":2685},
+            {"Plate":"Lomo al carbon",
+            "Price":4440},
+            {"Plate":"Chuleta",
+            "Price":1935}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz blanco",
+            "Price":155},
+            {"Type":"Arroz moro",
+            "Price":270}
+        ],
+        "Drinks":[
+            {"Type":"Cerveza Heineken",
+            "Price":325},
+            {"Type":"Cerveza Unlager",
+            "Price":295},
+            {"Type":"Cerveza Hollandia",
+            "Price":270},
+            {"Type":"Cerveza Ashe",
+            "Price":270},
+            {"Type":"Cerveza Kiss",
+            "Price":275},
+            {"Type":"Refresco de cola",
+            "Price":270},
+            {"Type":"Refresco de limon",
+            "Price":270},
+            {"Type":"Malta Morena",
+            "Price":325},
+            {"Type":"Yogurt de sabor",
+            "Price":225},
+            {"Type":"Agua natural",
+            "Price":225},
+            {"Type":"Energizante",
+            "Price":295}
+        ],
+        "Desserts":[
+            {"Plate":"Dulce de leche",
+            "Price":795}
+        ],
+        "Vegetarian options":[
+            {"Option":"Tostones campesinos",
+            "Classification":"Starters"}
+        ]
+    }
+}

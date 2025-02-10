@@ -1,0 +1,98 @@
+{
+    "Place":"Cafezillo",
+    "Location":[
+        {"Address":"Calle 4, esquina 3ra, Centro Vasco, Vedado",
+        "Municipality":"Plaza de la Revolucion",
+        "Coordinates":"4HQW+7H"}
+    ],
+    "Classification":"Bar-Cafeteria",
+    "Specialization":"Cafes y reposteria",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":null,
+        "Closing":null,
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"+53 63442352",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@cafezillo"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC","Otras"]}
+    ],
+    "Capacity":15,
+    "Parking":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Croissant natural",
+            "Price":800},
+            {"Plate":"Croissant de jamon y queso",
+            "Price":1100},
+            {"Plate":"Croissant de nata y frutas",
+            "Price":1000},
+            {"Plate":"Croissant de nutella y frutas",
+            "Price":1000},
+            {"Plate":"Croissant de jalea y queso crema",
+            "Price":1200},
+            {"Plate":"Croissant de salmon y queso crema",
+            "Price":1800},
+            {"Plate":"Croissant de atun y aceitunas",
+            "Price":2000},
+            {"Plate":"Croissant de jamon Serrano y rucula",
+            "Price":2000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cafe Cortadito",
+            "Price":230},
+            {"Type":"Cappuccino",
+            "Price":380},
+            {"Type":"Cafe Expresso",
+            "Price":180},
+            {"Type":"Cafe Latte",
+            "Price":500},
+            {"Type":"Cafe Bombon",
+            "Price":470},
+            {"Type":"Cafe Affogato",
+            "Price":650},
+            {"Type":"Cafe Frappuccino",
+            "Price":600},
+            {"Type":"Cafe Little Frappu",
+            "Price":400},
+            {"Type":"Cafe Iced Mocha",
+            "Price":480},
+            {"Type":"Irish Coffee",
+            "Price":700},
+            {"Type":"Iced Latte",
+            "Price":440},
+            {"Type":"Moccha",
+            "Price":530}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Croissant de nata y frutas",
+            "Classification":"Main course"},
+            {"Option":"Croissant de nutella y frutas",
+            "Classification":"Main course"},
+            {"Option":"Croissant de jalea y queso crema",
+            "Classification":"Main course"}
+        ]
+    }
+}

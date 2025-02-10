@@ -1,0 +1,91 @@
+{
+    "Place":"Colina Bar",
+    "Location":[
+        {"Address":"Esquina de B y Calzada de Guines, Reparto Merceditas",
+        "Municipality":"San Miguel del Padron",
+        "Coordinates":"3MW7+RXV"}
+    ],
+    "Classification":"Bar-Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"21h00",
+        "Closing":"06h00",
+        "Days":["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"56343050",
+    "Accounts or website":[
+        {"Facebook":"COLINA BAR"},
+        {"Instagram":"@colina_bar_oficial"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":50,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Entremes de jamon y queso",
+            "Price":600},
+            {"Plate":"Croquetas",
+            "Price":400},
+            {"Plate":"Frituras de malanga",
+            "Price":550},
+            {"Plate":"Tostones",
+            "Price":400},
+            {"Plate":"Tostones rellenos",
+            "Price":600},
+            {"Plate":"Chicharritas",
+            "Price":300}
+        ],
+        "Main course":[
+            {"Plate":"Espaghettis napolitanos",
+            "Price":550},
+            {"Plate":"Pizza napolitana grande",
+            "Price":650},
+            {"Plate":"Pizza napolitana",
+            "Price":220}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":200},
+            {"Addition":"Chorizo",
+            "Price":300},
+            {"Addition":"Jamon",
+            "Price":300},
+            {"Addition":"Pina",
+            "Price":150}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Tostones",
+            "Classification":"Starters"},
+            {"Option":"Chicharritas",
+            "Classification":"Starters"},
+            {"Option":"Espaghettis napolitanos",
+            "Classification":"Main course"},
+            {"Option":"Pizza napolitana grande",
+            "Classification":"Main course"},
+            {"Option":"Pizza napolitana",
+            "Classification":"Main course"}
+        ]
+    }
+}

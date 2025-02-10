@@ -1,0 +1,119 @@
+{
+    "Place":"La Hamburguesita",
+    "Location":[
+        {"Address":"Calle Cienfuegos entre Apodaca y Gloria",
+        "Municipality":"Habana Vieja",
+        "Coordinates":"4JJR+HVH"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Comida rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":5.0,
+        "Google Maps":5.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"78661294 / 53346088",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@hamburguesitala"},
+        {"Website":null},
+        {"Email":"amatodiaz@gmail.com"}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":15,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":false,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas",
+            "Price":350},
+            {"Plate":"Frituras de malanga",
+            "Price":350},
+            {"Plate":"Tostones Hawaianos",
+            "Price":400}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa Clasica",
+            "Price":550},
+            {"Plate":"Hamburguesa Hawaiana",
+            "Price":650},
+            {"Plate":"Hamburguesa Casa Blanca",
+            "Price":700},
+            {"Plate":"Hamburguesa Submarino",
+            "Price":670},
+            {"Plate":"Hamburguesa Belleza Habanera",
+            "Price":700},
+            {"Plate":"Hamburguesa Locura Cienfueguera",
+            "Price":800},
+            {"Plate":"Hamburguesa Biplanta",
+            "Price":850},
+            {"Plate":"Hamburguesa Cubana",
+            "Price":950},
+            {"Plate":"Hamburguesa Milanesa",
+            "Price":950},
+            {"Plate":"Sandwich de pollo",
+            "Price":450},
+            {"Plate":"Sandwich de jamon",
+            "Price":400},
+            {"Plate":"Sandwich de queso",
+            "Price":400},
+            {"Plate":"Sandwich de jamon y queso",
+            "Price":500},
+            {"Plate":"Sandwich de atun",
+            "Price":750},
+            {"Plate":"Sandwich Cubano",
+            "Price":750}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Jugos naturales",
+            "Price":150},
+            {"Type":"Batidos de frutas",
+            "Price":200},
+            {"Type":"Limonada frappe",
+            "Price":200},
+            {"Type":"Malteada",
+            "Price":350},
+            {"Type":"Malta",
+            "Price":280},
+            {"Type":"Refresco nacional",
+            "Price":250},
+            {"Type":"Refresco importado",
+            "Price":280},
+            {"Type":"Cervezas nacionales",
+            "Price":280},
+            {"Type":"Cervezas importadas",
+            "Price":250},
+            {"Type":"Energizante",
+            "Price":280},
+            {"Type":"Agua natural",
+            "Price":150},
+            {"Type":"Cafe Expresso",
+            "Price":100},
+            {"Type":"Cafe Bombon",
+            "Price":150}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Sandwich de queso",
+            "Classification":"Main course"}
+        ]
+    }
+}

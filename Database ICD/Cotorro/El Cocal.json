@@ -1,0 +1,117 @@
+{
+    "Place":"El Cocal",
+    "Location":[
+        {"Address":"#4026 A, Calle Lindero entre 38A y 44 ",
+        "Municipality":"Cotorro",
+        "Coordinates":"2PWV+VRG"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina mixta",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.4}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"76822199",
+    "Accounts or website":[
+        {"Facebook":"Restaurante El Cocal"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":40,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas",
+            "Price":600},
+            {"Plate":"Bolitas de queso",
+            "Price":650},
+            {"Plate":"Ensalada de atun",
+            "Price":1000},
+            {"Plate":"Toston de queso",
+            "Price":600},
+            {"Plate":"Toston de jamon y queso",
+            "Price":600},
+            {"Plate":"Toston de atun",
+            "Price":1000},
+            {"Plate":"Crema de queso",
+            "Price":550},
+            {"Plate":"Crema Aurora",
+            "Price":600},
+            {"Plate":"Crema Virginia",
+            "Price":650},
+            {"Plate":"Crema mixta",
+            "Price":700},
+            {"Plate":"Coctel de camaron",
+            "Price":1500},
+            {"Plate":"Empellas",
+            "Price":550}
+        ],
+        "Main course":[
+            {"Plate":"Pizza de queso",
+            "Price":1200},
+            {"Plate":"Pizza de jamon",
+            "Price":1400},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1500},
+            {"Plate":"Eperlan de pechuga",
+            "Price":1600},
+            {"Plate":"Eperlan de pescado",
+            "Price":2000}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":500},
+            {"Addition":"Jamon",
+            "Price":300},
+            {"Addition":"Pina",
+            "Price":150},
+            {"Addition":"Camaron",
+            "Price":1500},
+            {"Addition":"Atun",
+            "Price":1000},
+            {"Addition":"Cebolla",
+            "Price":200}
+        ],
+        "Siders":[
+            {"Type":"Yuca",
+            "Price":400},
+            {"Type":"Toston",
+            "Price":400}
+        ],
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Flan",
+            "Price":500}
+        ],
+        "Vegetarian options":[
+            {"Option":"Bolitas de queso",
+            "Classification":"Starters"},
+            {"Option":"Toston de queso",
+            "Classification":"Starters"},
+            {"Option":"Crema de queso",
+            "Classification":"Starters"},
+            {"Option":"Crema Aurora",
+            "Classification":"Starters"},
+            {"Option":"Pizza de queso",
+            "Classification":"Main course"}
+        ]
+    }
+}

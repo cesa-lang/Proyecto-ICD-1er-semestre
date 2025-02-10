@@ -1,0 +1,108 @@
+{
+    "Place":"Cafe Toscano",
+    "Location":[
+        {"Address":"#10425, Calzada de Guinesentre 104 y 112, La Rosita",
+        "Municipality":"San Miguel del Padron",
+        "Coordinates":"3MCR+MVP"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"50800611",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":"@toscanocafeteria"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","MLC"]}
+    ],
+    "Capacity":10,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones rellenos",
+            "Price":250},
+            {"Plate":"Tostones",
+            "Price":150},
+            {"Plate":"Platano",
+            "Price":100}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa sencilla",
+            "Price":300},
+            {"Plate":"Hamburguesa con queso",
+            "Price":380},
+            {"Plate":"Hamburguesa doble con queso",
+            "Price":550},
+            {"Plate":"Pollo Chiflado",
+            "Price":400},
+            {"Plate":"Pollo Especial",
+            "Price":1000},
+            {"Plate":"Espaghetti",
+            "Price":330},
+            {"Plate":"Espaghetti con queso Gouda",
+            "Price":400},
+            {"Plate":"Pizza napolitana",
+            "Price":170},
+            {"Plate":"Pizza doble de queso",
+            "Price":250},
+            {"Plate":"Pizza Hawaiana",
+            "Price":290},
+            {"Plate":"Pizza Gouda",
+            "Price":250},
+            {"Plate":"Pizza cubana",
+            "Price":320},
+            {"Plate":"Pizza grande napolitana",
+            "Price":550},
+            {"Plate":"Pizza grande doble de queso",
+            "Price":790},
+            {"Plate":"Pizza grande Gouda",
+            "Price":940}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Tostones",
+            "Classification":"Starters"},
+            {"Option":"Platano",
+            "Classification":"Starters"},
+            {"Option":"Espaghetti",
+            "Classification":"Main course"},
+            {"Option":"Espaghetti con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza doble de queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande doble de queso",
+            "Classification":"Main course"},
+            {"Option":"Pizza grande Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

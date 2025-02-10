@@ -1,0 +1,122 @@
+{
+    "Place":"La Esquinita del Cotorro",
+    "Location":[
+        {"Address":"Avenida 71",
+        "Municipality":"Cotorro",
+        "Coordinates":"2PVJ+WH2"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"20h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":4.0}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"59937587",
+    "Accounts or website":[
+        {"Facebook":"La Esquinita Del Cotorro"},
+        {"Instagram":"@laesquinitadelcotorro"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":16,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones",
+            "Price":200},
+            {"Plate":"Tortilla natural",
+            "Price":220},
+            {"Plate":"Tortilla de queso blanco",
+            "Price":280},
+            {"Plate":"Tortilla de jamon",
+            "Price":320},
+            {"Plate":"Tortilla de chorizo",
+            "Price":320},
+            {"Plate":"Tortilla mixta",
+            "Price":410}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa simple",
+            "Price":250},
+            {"Plate":"Hamburguesa doble",
+            "Price":380},
+            {"Plate":"Hamburguesa Esquinita",
+            "Price":480},
+            {"Plate":"Hamburguesa Esquinita Plus",
+            "Price":580},
+            {"Plate":"Pan con jamon",
+            "Price":240},
+            {"Plate":"Pan con jamon y chorizo",
+            "Price":270},
+            {"Plate":"Pan con chorizo",
+            "Price":160},
+            {"Plate":"Pizza Napolitana con queso criollo",
+            "Price":200},
+            {"Plate":"Pizza Familiar con queso criollo",
+            "Price":370},
+            {"Plate":"Pizza Napolitana con queso Gouda",
+            "Price":360},
+            {"Plate":"Pizza Familiar con queso Gouda",
+            "Price":600}
+        ],
+        "Additionals":[
+            {"Addition":"Chorizo",
+            "Price":100},
+            {"Addition":"Jamon",
+            "Price":95},
+            {"Addition":"Queso criollo",
+            "Price":40},
+            {"Addition":"Queso Gouda",
+            "Price":200},
+            {"Addition":"Cebolla",
+            "Price":100},
+            {"Addition":"Aji",
+            "Price":70}
+        ],
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":[
+            {"Plate":"Copa de helado de 2 bolas",
+            "Price":100},
+            {"Plate":"Copa de helado de 3 bolas",
+            "Price":150},
+            {"Plate":"Copa de helado de 4 bolas",
+            "Price":200},
+            {"Plate":"Copa de helado de 3 bolas especial de almendras",
+            "Price":300}
+        ],
+        "Vegetarian options":[
+            {"Option":"Tostones",
+            "Classification":"Starters"},
+            {"Option":"Tortilla natural",
+            "Classification":"Starters"},
+            {"Option":"Tortilla de queso blanco",
+            "Classification":"Starters"},
+            {"Option":"Pizza Napolitana con queso criollo",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con queso criollo",
+            "Classification":"Main course"},
+            {"Option":"Pizza Napolitana con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

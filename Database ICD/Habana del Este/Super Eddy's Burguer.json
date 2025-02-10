@@ -1,0 +1,113 @@
+{
+    "Place":"Super Eddy's Burguer",
+    "Location":[
+        {"Address":"La Curva, Zona 24, Alamar",
+        "Municipality":"Habana del Este",
+        "Coordinates":"5P9F+5V5"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina criolla",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":null,
+        "Closing":null,
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"59179824",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Tostones naturales",
+            "Price":200},
+            {"Plate":"Tostones en tapas",
+            "Price":450},
+            {"Plate":"Croquetas",
+            "Price":300},
+            {"Plate":"Pollo frito",
+            "Price":550},
+            {"Plate":"Salchipapa",
+            "Price":1200},
+            {"Plate":"Papas fritas",
+            "Price":600},
+            {"Plate":"Super Picadera",
+            "Price":1400}
+        ],
+        "Main course":[
+            {"Plate":"Tortipan",
+            "Price":250},
+            {"Plate":"Hot Dog",
+            "Price":300},
+            {"Plate":"Sandwich",
+            "Price":350},
+            {"Plate":"Pan sencillo de cerdo",
+            "Price":550},
+            {"Plate":"Super Pan de cerdo",
+            "Price":1400},
+            {"Plate":"Hamburguesa sencilla",
+            "Price":700},
+            {"Plate":"Super Hamburguesa",
+            "Price":1600},
+            {"Plate":"Pasta",
+            "Price":550},
+            {"Plate":"Lomo ahumado",
+            "Price":750},
+            {"Plate":"Plato de pollo frito y guariciones",
+            "Price":1050},
+            {"Plate":"Plato de bistec de cerdo y guarniciones",
+            "Price":1200}
+        ],
+        "Additionals":null,
+        "Siders":[
+            {"Type":"Arroz blanco",
+            "Price":100},
+            {"Type":"Arroz moro",
+            "Price":250},
+            {"Type":"Vianda frita",
+            "Price":250},
+            {"Type":"Ensalada de estacion",
+            "Price":250},
+            {"Type":"Frijoles colorados",
+            "Price":400}
+        ],
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Tostones naturales",
+            "Classification":"Starters"},
+            {"Option":"Tostones en tapas",
+            "Classification":"Starters"},
+            {"Option":"Papas fritas",
+            "Classification":"Starters"},
+            {"Option":"Tortipan",
+            "Classification":"Main course"},
+            {"Option":"Pasta",
+            "Classification":"Main course"},
+            {"Option":"Vianda frita",
+            "Classification":"Siders"},
+            {"Option":"Ensalada de estacion",
+            "Classification":"Siders"}
+        ]
+    }
+}

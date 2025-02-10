@@ -1,0 +1,116 @@
+{
+    "Place":"Heredia",
+    "Location":[
+        {"Address":"Calle Heredia entre Avenida Acosta y O'Farril, La Vibora",
+        "Municipality":"10 de Octubre",
+        "Coordinates":"3JQJ+6JJ"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"10h00",
+        "Closing":"22h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.5,
+        "Google Maps":3.5}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"76400222",
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":30,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Pizza napolitana",
+            "Price":950},
+            {"Plate":"Pizza de jamon",
+            "Price":980},
+            {"Plate":"Pizza de chorizo",
+            "Price":980},
+            {"Plate":"Pizza Bolognesa",
+            "Price":980},
+            {"Plate":"Pizza de cebolla",
+            "Price":980},
+            {"Plate":"Pizza de pimiento",
+            "Price":980},
+            {"Plate":"Pizza Hawaiana",
+            "Price":1000},
+            {"Plate":"Pizza de aceitunas",
+            "Price":1000},
+            {"Plate":"Pizza de atun",
+            "Price":1000},
+            {"Plate":"Espaghettis napolitano",
+            "Price":600},
+            {"Plate":"Espaghettis de jamon",
+            "Price":650},
+            {"Plate":"Espaghettis de chorizo",
+            "Price":650},
+            {"Plate":"Espaghettis a la Bolognesa",
+            "Price":670},
+            {"Plate":"Espaghettis de atun",
+            "Price":800},
+            {"Plate":"Lasagna de jamon",
+            "Price":750},
+            {"Plate":"Lasagna de chorizo",
+            "Price":850},
+            {"Plate":"Lasagna bolognesa",
+            "Price":950},
+            {"Plate":"Emparedado de atun con cebolla",
+            "Price":400},
+            {"Plate":"Hamburguesa",
+            "Price":350},
+            {"Plate":"Emparedado de Heredia",
+            "Price":350},
+            {"Plate":"Emparedado cubano",
+            "Price":350}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Limonada",
+            "Price":100},
+            {"Type":"Jugo de mango",
+            "Price":120},
+            {"Type":"Jugo de tamarindo",
+            "Price":120},
+            {"Type":"Jugo de guayaba",
+            "Price":120},
+            {"Type":"Coctel de frutas",
+            "Price":150},
+            {"Type":"Batido de helado",
+            "Price":350}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pizza napolitana",
+            "Classification":"Main course"},
+            {"Option":"Pizza de cebolla",
+            "Classification":"Main course"},
+            {"Option":"Pizza de pimiento",
+            "Classification":"Main course"},
+            {"Option":"Pizza de aceitunas",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis napolitano",
+            "Classification":"Main course"}
+        ]
+    }
+}

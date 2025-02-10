@@ -1,0 +1,90 @@
+{
+    "Place":"La Divina Pastora",
+    "Location":[
+        {"Address":"Complejo Morro Cabana, Via Monumental",
+        "Municipality":"Habana del Este",
+        "Coordinates":"4JWX+W27"}
+    ],
+    "Classification":"Restaurant",
+    "Specialization":"Comida cubana estilizada (nativa)",
+    "Ownership":"Estatal",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"00h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.0,
+        "Google Maps":3.7}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":false}
+    ],
+    "Phone":"77937809",
+    "Accounts or website":[
+        {"Facebook":"La Divina Pastora"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":100,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croqueticas La Tasca",
+            "Price":540},
+            {"Plate":"Deditos de pollo",
+            "Price":540},
+            {"Plate":"Empanadas Divina Pastora",
+            "Price":1500},
+            {"Plate":"Fritura de malanga",
+            "Price":540},
+            {"Plate":"Garbanzo frito",
+            "Price":1620},
+            {"Plate":"Tablita de salmon ahumado",
+            "Price":1620},
+            {"Plate":"Pastas fruto del mar",
+            "Price":2100},
+            {"Plate":"Hamburguesa Pastora",
+            "Price":1080},
+            {"Plate":"Sandwich Roast Beef",
+            "Price":1620}
+        ],
+        "Main course":[
+            {"Plate":"Pollo empanado a la parmesana",
+            "Price":1200},
+            {"Plate":"Filete de pescado",
+            "Price":2300},
+            {"Plate":"Filete de cerdo",
+            "Price":2040},
+            {"Plate":"Rollito de cerdo",
+            "Price":1560},
+            {"Plate":"Filete de res",
+            "Price":2880},
+            {"Plate":"Estofado de res",
+            "Price":2040},
+            {"Plate":"Langosta Divina Pastora",
+            "Price":2500}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Empanadas Divina Pastora",
+            "Classification":"Starters"},
+            {"Option":"Fritura de malanga",
+            "Classification":"Starters"},
+            {"Option":"Garbanzo frito",
+            "Classification":"Starters"}
+        ]
+    }
+}

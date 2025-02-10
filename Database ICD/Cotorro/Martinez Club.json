@@ -1,0 +1,136 @@
+{
+    "Place":"Martinez Club",
+    "Location":[
+        {"Address":"#6726, Calle 20 entre 69 y 67A",
+        "Municipality":"Cotorro",
+        "Coordinates":"2PWJ+RMM"}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"09h00",
+        "Closing":"21h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["Cotorro"]}
+    ],
+    "Phone number":"76821650",
+    "Accounts or website":[
+        {"Facebook":"Martinez Club"},
+        {"Instagram":"@martinez_club_cafeteria"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":20,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Frituras de malanga",
+            "Price":300},
+            {"Plate":"Ensalada fria",
+            "Price":150},
+            {"Plate":"Croquetas",
+            "Price":300},
+            {"Plate":"Tostones al ajillo",
+            "Price":300}
+        ],
+        "Main course":[
+            {"Plate":"Hamburguesa simple",
+            "Price":230},
+            {"Plate":"Hamburguesa con mayonesa",
+            "Price":280},
+            {"Plate":"Hamburguesa con jamon",
+            "Price":350},
+            {"Plate":"Hamburguesa con chorizo",
+            "Price":350},
+            {"Plate":"Hamburguesa con cebolla",
+            "Price":330},
+            {"Plate":"Hamburguesa con queso blanco",
+            "Price":330},
+            {"Plate":"Hamburguesa con queso Gouda",
+            "Price":430},
+            {"Plate":"Pan con jamon",
+            "Price":250},
+            {"Plate":"Pan con perro",
+            "Price":200},
+            {"Plate":"Pan con croqueta",
+            "Price":100},
+            {"Plate":"Pollo Chiflado",
+            "Price":700},
+            {"Plate":"Masa de cerdo frita",
+            "Price":1100},
+            {"Plate":"Espaghettis con queso blanco",
+            "Price":350},
+            {"Plate":"Espaghettis con queso Gouda",
+            "Price":500},
+            {"Plate":"Pizza con queso blanco",
+            "Price":200},
+            {"Plate":"Pizza con queso Gouda",
+            "Price":350},
+            {"Plate":"Pizza Familiar con queso blanco",
+            "Price":450},
+            {"Plate":"Pizza Familiar con queso Gouda",
+            "Price":650}
+        ],
+        "Additionals":[
+            {"Addition":"Jamon",
+            "Price":120},
+            {"Addition":"Perrito",
+            "Price":120},
+            {"Addition":"Chorizo",
+            "Price":120},
+            {"Addition":"Cebolla",
+            "Price":100},
+            {"Addition":"Queso blanco",
+            "Price":100},
+            {"Addition":"Queso Gouda",
+            "Price":200},
+            {"Addition":"Pina",
+            "Price":100}
+        ],
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Cafe Expresso",
+            "Price":200},
+            {"Type":"Refresco",
+            "Price":20},
+            {"Type":"Jugo",
+            "Price":50},
+            {"Type":"Malteada",
+            "Price":330}
+        ],
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Frituras de malanga",
+            "Classification":"Starters"},
+            {"Option":"Tostones al ajillo",
+            "Classification":"Starters"},
+            {"Option":"Espaghettis con queso blanco",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza con queso blanco",
+            "Classification":"Main course"},
+            {"Option":"Pizza con queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con queso blanco",
+            "Classification":"Main course"},
+            {"Option":"Pizza Familiar con queso Gouda",
+            "Classification":"Main course"}
+        ]
+    }
+}

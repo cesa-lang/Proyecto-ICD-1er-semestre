@@ -1,0 +1,92 @@
+{
+    "Place":"El Rapido",
+    "Location":[
+        {"Address":"Cruz del Padre entre Pedrosa y Amenidad",
+        "Municipality":"Cerro",
+        "Coordinates":"4JCG+972"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina rapida",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"07h30",
+        "Closing":"19h30",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":null,
+    "Accounts or website":[
+        {"Facebook":null},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Efectivo"],
+        "Accepted currencies":["CUP"]}
+    ],
+    "Capacity":null,
+    "Parking service":false,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Croquetas",
+            "Price":300},
+            {"Plate":"Papas fritas",
+            "Price":360}
+        ],
+        "Main course":[
+            {"Plate":"Pan con tortilla",
+            "Price":300},
+            {"Plate":"Pan con tortilla y jamon",
+            "Price":360},
+            {"Plate":"Pan con tortilla y chorizo",
+            "Price":360},
+            {"Plate":"Pan con tortilla y cebolla",
+            "Price":360},
+            {"Plate":"Pan con tortilla y queso Gouda",
+            "Price":400},
+            {"Plate":"Espaghettis",
+            "Price":850},
+            {"Plate":"Espaghettis Napolitanos",
+            "Price":380},
+            {"Plate":"Espaghettis con chorizo",
+            "Price":1000},
+            {"Plate":"Hamburguesa de cerdo",
+            "Price":620},
+            {"Plate":"Hamburguesa de res",
+            "Price":720},
+            {"Plate":"Pollo Chiflado",
+            "Price":750},
+            {"Plate":"Sandwich cubano",
+            "Price":860},
+            {"Plate":"Pan con bistec de cerdo",
+            "Price":750}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Pan con tortilla",
+            "Classification":"Main course"},
+            {"Option":"Pan con tortilla y cebolla",
+            "Classification":"Main course"},
+            {"Option":"Pan con tortilla y queso Gouda",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis",
+            "Classification":"Main course"},
+            {"Option":"Espaghettis Napolitanos",
+            "Classification":"Main course"}
+        ]
+    }
+}
